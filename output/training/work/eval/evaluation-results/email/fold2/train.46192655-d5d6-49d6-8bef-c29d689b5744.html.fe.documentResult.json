@@ -1,0 +1,1 @@
+[{"name":"email","extracted":"email","gold":"O","extractedValue":"nippcrt^aproaAinctWvye","foldName":"fold2","scores":{"email":0.5486159920692444}},{"name":"email","extracted":"O","gold":"email","goldValue":"nippcrt^aproaAinctWvye com","foldName":"fold2","scores":{"O":-1.0}}]

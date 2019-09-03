@@ -1,0 +1,1 @@
+[{"name":"supplier_name","extracted":"supplier_name","gold":"O","extractedValue":"Shoe Co.","foldName":"fold2","scores":{"supplier_name":0.42995813488960266}},{"name":"supplier_name","extracted":"O","gold":"supplier_name","goldValue":"Acme Shoe Co.","foldName":"fold2","scores":{"O":-1.0}}]

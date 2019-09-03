@@ -1,0 +1,303 @@
+2019-08-09 14:05:30.938  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:30.940  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:30.944  INFO c.w.vds.hypermodel.util.HypermodelUtils  00000 - Hypermodel customization file C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\config\hypermodel.yml was not found
+2019-08-09 14:05:30.948  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:30.949  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:30.953  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:30.954  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.136  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.138  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.139  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.141  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.249  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.250  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.251  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.253  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.272  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.274  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.275  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.277  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.311  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.313  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.314  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.316  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.335  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.336  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.337  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.338  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.345  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.347  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.349  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.353  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.375  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.377  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.378  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.379  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.388  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.389  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.391  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.393  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.415  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.417  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.419  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.421  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.429  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.431  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.432  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.434  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.457  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.459  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.460  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.461  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.467  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.469  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.470  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.472  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.488  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.489  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.490  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.491  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.496  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.497  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.497  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.498  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.511  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.512  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.513  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.514  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.520  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.521  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.522  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.523  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.536  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.537  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:31.538  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:31.539  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:33.552  WARN c.w.v.w.semaphore.SemaphoreService       00000 - Semaphore folder C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\process\.semaphore\eval_18.SF exists but does not contain limit file
+2019-08-09 14:05:34.284  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Started process 4
+2019-08-09 14:05:34.297  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info ---> Start: Print model info
+2019-08-09 14:05:34.299  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info Task-specific process variables: {workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 14:05:34.303  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info Task variables: {outputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, _taskClass=com.workfusion.nlp.uima.workflow.task.info.PrintModelInfoTask}
+2019-08-09 14:05:34.328  INFO c.w.v.n.m.c.ConfigurationInstance        00019 Print model info Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 14:05:34.328  INFO c.w.v.n.m.c.ConfigurationInstance        00019 Print model info Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 14:05:34.378  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info <--- Finish: Print model info (91 ms)
+2019-08-09 14:05:34.382  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs ---> Start: Remove empty docs
+2019-08-09 14:05:34.382  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs Task-specific process variables: {}
+2019-08-09 14:05:34.385  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs Task variables: {documentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, _taskClass=com.workfusion.nlp.uima.workflow.task.util.RemoveEmptyDocsTask}
+2019-08-09 14:05:34.872  WARN c.w.n.u.w.task.util.RemoveEmptyDocsTask  00023 Remove empty docs Delete file C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\Type3\train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html, because it contains empty document
+2019-08-09 14:05:35.124  WARN c.w.n.u.w.task.util.RemoveEmptyDocsTask  00023 Remove empty docs Delete file C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\Type3\train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html, because it contains empty document
+2019-08-09 14:05:35.352  WARN c.w.n.u.w.task.util.RemoveEmptyDocsTask  00023 Remove empty docs 2 of 93 documents will be deleted from training set
+2019-08-09 14:05:35.381  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs <--- Finish: Remove empty docs (1003 ms)
+2019-08-09 14:05:35.383  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir ---> Start: Copy training set to raw dir
+2019-08-09 14:05:35.383  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir Task-specific process variables: {}
+2019-08-09 14:05:35.385  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir Task variables: {paramCommands=[{"operation":"COPY","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set-raw/"}], _taskClass=com.workfusion.nlp.uima.workflow.task.util.FileUtilTask}
+2019-08-09 14:05:35.569  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir <--- Finish: Copy training set to raw dir (187 ms)
+2019-08-09 14:05:35.569  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set ---> Start: Preprocess training set
+2019-08-09 14:05:35.569  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set Task-specific process variables: {}
+2019-08-09 14:05:35.570  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set Task variables: {documentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set-raw/, preprocessorConfigurations=[{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.SpaceRemovingPreprocessor","params":{},"applicableTypes":[]},{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.MetaManualTagRemovingPreprocessor","params":{},"applicableTypes":[]}], _taskClass=com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask, processedDocumentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/}
+2019-08-09 14:05:35.574  WARN c.w.n.u.w.async.TaskExecutionService     00029 Preprocess training set Error during task execution: Task[id=29, name=Preprocess training set]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:56)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:72)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:54)
+	... 10 common frames omitted
+Caused by: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:370)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:421)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3205)
+	at com.workfusion.nlp.uima.util.DocumentParserUtils.getFileContent(DocumentParserUtils.java:34)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:64)
+	... 14 common frames omitted
+
+2019-08-09 14:05:35.574  WARN c.w.n.u.w.async.TaskExecutionService     00029 Preprocess training set Performing retry for Task[id=29, name=Preprocess training set], retryLimit: 3, retryCount: 2
+2019-08-09 14:05:45.576  WARN c.w.n.u.w.async.TaskExecutionService     00029 Preprocess training set Error during task execution: Task[id=29, name=Preprocess training set]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:56)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:72)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:54)
+	... 10 common frames omitted
+Caused by: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:370)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:421)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3205)
+	at com.workfusion.nlp.uima.util.DocumentParserUtils.getFileContent(DocumentParserUtils.java:34)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:64)
+	... 14 common frames omitted
+
+2019-08-09 14:05:45.577  WARN c.w.n.u.w.async.TaskExecutionService     00029 Preprocess training set Performing retry for Task[id=29, name=Preprocess training set], retryLimit: 3, retryCount: 3
+2019-08-09 14:05:55.577  WARN c.w.n.u.w.async.TaskExecutionService     00029 Preprocess training set Error during task execution: Task[id=29, name=Preprocess training set]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:56)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:72)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:54)
+	... 10 common frames omitted
+Caused by: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:370)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:421)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3205)
+	at com.workfusion.nlp.uima.util.DocumentParserUtils.getFileContent(DocumentParserUtils.java:34)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:64)
+	... 14 common frames omitted
+
+2019-08-09 14:05:55.577  WARN c.w.n.u.w.async.TaskExecutionService     00029 Preprocess training set Performing retry for Task[id=29, name=Preprocess training set], retryLimit: 3, retryCount: 4
+2019-08-09 14:05:55.577 ERROR c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set  !!!! Error occurred during: Preprocess training set execution
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:56)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:72)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:54)
+	... 10 common frames omitted
+Caused by: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:370)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:421)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3205)
+	at com.workfusion.nlp.uima.util.DocumentParserUtils.getFileContent(DocumentParserUtils.java:34)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:64)
+	... 14 common frames omitted
+
+2019-08-09 14:05:55.578  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set Process variables: {workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 14:05:55.579  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set Task variables: {documentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set-raw/, preprocessorConfigurations=[{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.SpaceRemovingPreprocessor","params":{},"applicableTypes":[]},{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.MetaManualTagRemovingPreprocessor","params":{},"applicableTypes":[]}], _taskClass=com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask, processedDocumentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/}
+2019-08-09 14:05:55.581 ERROR c.w.n.u.w.async.TaskExecutionService     00029 Preprocess training set Retry limit exceeded for task Preprocess training set
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:56)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.exception.SdkException: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:72)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:658)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.execute(DocumentPreProcessingTask.java:54)
+	... 10 common frames omitted
+Caused by: java.nio.file.AccessDeniedException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set-raw\Type1
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:370)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:421)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3205)
+	at com.workfusion.nlp.uima.util.DocumentParserUtils.getFileContent(DocumentParserUtils.java:34)
+	at com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask.preprocess(DocumentPreProcessingTask.java:64)
+	... 14 common frames omitted
+
+2019-08-09 14:05:55.583 ERROR c.w.n.u.w.async.TaskExecutionService     00029 Preprocess training set Suspending ProcessInstance[4] due to Stop process execution due to retry limit exceeded for Task[id=29, name=Preprocess training set]
+2019-08-09 14:05:58.303  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Exit because no processes instances in Activiti engine
+2019-08-09 14:05:58.304  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Start: aggregating performance statistics.
+2019-08-09 14:05:58.463  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Finish: aggregating performance statistics.
+2019-08-09 14:05:58.470 ERROR o.s.boot.SpringApplication               00000 - Application startup failed
+
+java.lang.IllegalStateException: Failed to execute ApplicationRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:726)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:713)
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:703)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:304)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at com.workfusion.vds.nlp.hypermodel.runner.HyperModelRunner.runLocally(HyperModelRunner.java:54)
+	at com.workfusion.vds.nlp.hypermodel.runner.ModelRunner.run(ModelRunner.java:64)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.workfusion.vds.sdk.run.ModelRunner.run(ModelRunner.java:34)
+	at mle.cert.assignment.run.ModelTrainingRunner.main(ModelTrainingRunner.java:78)
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.workfusion.vds.spring.boot.ModelMainRunner.run(ModelMainRunner.java:20)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:723)
+	... 13 common frames omitted
+Caused by: com.workfusion.nlp.uima.workflow.executor.FailedStepException: null
+	at com.workfusion.nlp.uima.workflow.executor.WorkflowExecutor.runWorkflow(WorkflowExecutor.java:122)
+	at com.workfusion.nlp.uima.workflow.run.WorkflowRunner.runLocally(WorkflowRunner.java:254)
+	at com.workfusion.vds.nlp.hypermodel.runner.HyperModelRunner.run(HyperModelRunner.java:68)
+	at com.workfusion.vds.nlp.hypermodel.runner.HyperModelRunner.main(HyperModelRunner.java:64)
+	... 19 common frames omitted
+

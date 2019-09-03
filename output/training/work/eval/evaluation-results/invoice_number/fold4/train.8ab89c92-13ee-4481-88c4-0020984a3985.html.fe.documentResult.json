@@ -1,0 +1,1 @@
+[{"name":"invoice_number","extracted":"invoice_number","gold":"O","extractedValue":"McFarland","foldName":"fold4","scores":{"invoice_number":0.4542209506034851}},{"name":"invoice_number","extracted":"O","gold":"invoice_number","goldValue":"49346","foldName":"fold4","scores":{"O":-1.0}}]

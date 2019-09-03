@@ -1,0 +1,10 @@
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00145820180117152240.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice108.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice124.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice138.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice151.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice173.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice20.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html

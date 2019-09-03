@@ -1,0 +1,1 @@
+[{"name":"email","extracted":"email","gold":"O","extractedValue":"iack.harrowiSexamole","foldName":"fold3","scores":{"email":0.640226423740387}},{"name":"email","extracted":"O","gold":"email","goldValue":"iack.harrowiSexamole nr-m","foldName":"fold3","scores":{"O":-1.0}}]

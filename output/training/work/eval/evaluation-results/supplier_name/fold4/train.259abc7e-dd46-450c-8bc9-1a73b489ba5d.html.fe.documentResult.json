@@ -1,0 +1,1 @@
+[{"name":"supplier_name","extracted":"supplier_name","gold":"O","extractedValue":"Group","foldName":"fold4","scores":{"supplier_name":0.3069985806941986}},{"name":"supplier_name","extracted":"O","gold":"supplier_name","goldValue":"Nolke Resort Group","foldName":"fold4","scores":{"O":-1.0}}]

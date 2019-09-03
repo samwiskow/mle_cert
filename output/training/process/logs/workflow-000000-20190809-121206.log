@@ -1,0 +1,1131 @@
+2019-08-09 12:12:16.625  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:16.628  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:16.631  INFO c.w.vds.hypermodel.util.HypermodelUtils  00000 - Hypermodel customization file C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\config\hypermodel.yml was not found
+2019-08-09 12:12:16.633  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:16.635  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:16.640  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:16.642  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:16.906  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:16.909  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:16.911  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:16.913  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.049  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.051  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.053  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.055  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.088  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.091  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.092  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.093  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.135  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.137  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.139  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.141  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.177  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.179  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.181  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.183  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.192  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.193  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.195  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.200  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.224  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.226  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.227  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.228  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.237  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.238  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.240  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.242  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.267  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.269  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.270  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.272  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.283  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.284  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.286  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.287  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.309  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.311  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.312  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.313  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.321  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.323  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.324  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.326  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.345  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.346  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.347  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.348  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.369  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.370  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.372  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.374  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.396  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.409  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.410  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.412  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.433  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.434  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.435  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.440  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.459  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.461  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:17.462  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:17.463  INFO c.w.v.n.m.c.ConfigurationInstance        00000 - Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:20.193  WARN c.w.v.w.semaphore.SemaphoreService       00000 - Semaphore folder C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\process\.semaphore\eval_18.SF exists but does not contain limit file
+2019-08-09 12:12:21.145  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Started process 4
+2019-08-09 12:12:21.160  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info ---> Start: Print model info
+2019-08-09 12:12:21.162  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info Task-specific process variables: {workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:21.167  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info Task variables: {outputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, _taskClass=com.workfusion.nlp.uima.workflow.task.info.PrintModelInfoTask}
+2019-08-09 12:12:21.192  INFO c.w.v.n.m.c.ConfigurationInstance        00019 Print model info Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:21.193  INFO c.w.v.n.m.c.ConfigurationInstance        00019 Print model info Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:21.267  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info <--- Finish: Print model info (117 ms)
+2019-08-09 12:12:21.274  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs ---> Start: Remove empty docs
+2019-08-09 12:12:21.274  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs Task-specific process variables: {}
+2019-08-09 12:12:21.277  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs Task variables: {documentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, _taskClass=com.workfusion.nlp.uima.workflow.task.util.RemoveEmptyDocsTask}
+2019-08-09 12:12:22.666  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs <--- Finish: Remove empty docs (1399 ms)
+2019-08-09 12:12:22.669  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir ---> Start: Copy training set to raw dir
+2019-08-09 12:12:22.669  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir Task-specific process variables: {}
+2019-08-09 12:12:22.671  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir Task variables: {paramCommands=[{"operation":"COPY","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set-raw/"}], _taskClass=com.workfusion.nlp.uima.workflow.task.util.FileUtilTask}
+2019-08-09 12:12:23.002  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir <--- Finish: Copy training set to raw dir (336 ms)
+2019-08-09 12:12:23.005  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set ---> Start: Preprocess training set
+2019-08-09 12:12:23.006  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set Task-specific process variables: {}
+2019-08-09 12:12:23.007  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set Task variables: {documentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set-raw/, preprocessorConfigurations=[{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.SpaceRemovingPreprocessor","params":{},"applicableTypes":[]},{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.MetaManualTagRemovingPreprocessor","params":{},"applicableTypes":[]}], _taskClass=com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask, processedDocumentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/}
+2019-08-09 12:12:24.250  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set <--- Finish: Preprocess training set (1246 ms)
+2019-08-09 12:12:24.254  INFO c.w.n.uima.workflow.logging.TaskLogger   00032 Create per-tag training sets ---> Start: Create per-tag training sets
+2019-08-09 12:12:24.255  INFO c.w.n.uima.workflow.logging.TaskLogger   00032 Create per-tag training sets Task-specific process variables: {}
+2019-08-09 12:12:24.257  INFO c.w.n.uima.workflow.logging.TaskLogger   00032 Create per-tag training sets Task variables: {subModels=["INFO_EXTRACTION","email","invoice_date","invoice_number","price","product","quantity","supplier_name","total_amount"], outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, trainingSetDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CreatePerTagTrainingSetsTask, minDocs=10}
+2019-08-09 12:12:24.780  INFO c.w.n.uima.workflow.logging.TaskLogger   00032 Create per-tag training sets <--- Finish: Create per-tag training sets (532 ms)
+2019-08-09 12:12:24.783  INFO c.w.n.uima.workflow.logging.TaskLogger   00035 Copy Reference Data to Output ---> Start: Copy Reference Data to Output
+2019-08-09 12:12:24.783  INFO c.w.n.uima.workflow.logging.TaskLogger   00035 Copy Reference Data to Output Task-specific process variables: {}
+2019-08-09 12:12:24.785  INFO c.w.n.uima.workflow.logging.TaskLogger   00035 Copy Reference Data to Output Task variables: {paramCommands=[{"operation":"COPY_OPTIONAL","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/ref-data/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/ref-data/"},{"operation":"COPY_OPTIONAL","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/dictionaries/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/dictionaries/"},{"operation":"COPY_OPTIONAL","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/corrections/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/corrections/"},{"operation":"COPY_OPTIONAL","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/resources/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/"}], _taskClass=com.workfusion.nlp.uima.workflow.task.util.FileUtilTask}
+2019-08-09 12:12:24.810  INFO c.w.n.uima.workflow.logging.TaskLogger   00035 Copy Reference Data to Output <--- Finish: Copy Reference Data to Output (30 ms)
+2019-08-09 12:12:24.813  INFO c.w.n.uima.workflow.logging.TaskLogger   00038 Copy corrections files ---> Start: Copy corrections files
+2019-08-09 12:12:24.813  INFO c.w.n.uima.workflow.logging.TaskLogger   00038 Copy corrections files Task-specific process variables: {}
+2019-08-09 12:12:24.814  INFO c.w.n.uima.workflow.logging.TaskLogger   00038 Copy corrections files Task variables: {inputPath=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/corrections/, outputPath=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/model/resources/corrections/, _taskClass=com.workfusion.nlp.uima.workflow.task.extract.CopyCorrectionsTask}
+2019-08-09 12:12:24.842  INFO c.w.n.uima.workflow.logging.TaskLogger   00038 Copy corrections files <--- Finish: Copy corrections files (30 ms)
+2019-08-09 12:12:24.843  INFO c.w.n.uima.workflow.logging.TaskLogger   00041 Generate tokenizers ---> Start: Generate tokenizers
+2019-08-09 12:12:24.844  INFO c.w.n.uima.workflow.logging.TaskLogger   00041 Generate tokenizers Task-specific process variables: {}
+2019-08-09 12:12:24.846  INFO c.w.n.uima.workflow.logging.TaskLogger   00041 Generate tokenizers Task variables: {tokenizerOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/tokenizers/, trainingSetDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, goldLabelsJson=["INFO_EXTRACTION","email","invoice_date","invoice_number","price","product","quantity","supplier_name","total_amount"], _taskClass=com.workfusion.nlp.uima.workflow.model.ie.tokenizer.GenerateTokenizersTask}
+2019-08-09 12:12:27.226  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Register semaphore eval_18.SF with limit=2147483647
+2019-08-09 12:12:27.275  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Request permission for semaphore_eval_18.SF_1
+2019-08-09 12:12:27.278  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Acquried permission for semaphore_eval_18.SF_1 
+2019-08-09 12:12:27.282  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Request permission for semaphore_eval_18.SF_2
+2019-08-09 12:12:27.284  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Acquried permission for semaphore_eval_18.SF_2 
+2019-08-09 12:12:27.285  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Request permission for semaphore_eval_18.SF_3
+2019-08-09 12:12:27.287  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Acquried permission for semaphore_eval_18.SF_3 
+2019-08-09 12:12:27.289  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Request permission for semaphore_eval_18.SF_4
+2019-08-09 12:12:27.291  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Acquried permission for semaphore_eval_18.SF_4 
+2019-08-09 12:12:27.293  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Request permission for semaphore_eval_18.SF_5
+2019-08-09 12:12:27.295  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Acquried permission for semaphore_eval_18.SF_5 
+2019-08-09 12:12:27.296  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Request permission for semaphore_eval_18.SF_6
+2019-08-09 12:12:27.298  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Acquried permission for semaphore_eval_18.SF_6 
+2019-08-09 12:12:27.300  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Request permission for semaphore_eval_18.SF_7
+2019-08-09 12:12:27.302  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Acquried permission for semaphore_eval_18.SF_7 
+2019-08-09 12:12:27.304  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Request permission for semaphore_eval_18.SF_8
+2019-08-09 12:12:27.306  INFO c.w.v.w.s.l.SemaphoreReleaseListener     00041 Generate tokenizers Acquried permission for semaphore_eval_18.SF_8 
+2019-08-09 12:12:27.342  INFO c.w.n.uima.workflow.logging.TaskLogger   00041 Generate tokenizers <--- Finish: Generate tokenizers (2499 ms)
+2019-08-09 12:12:27.346  INFO c.w.n.u.w.l.SubProcessStartListener      00000 -  ---> Start: Subprocess with executionId = 84 started with parameters:{workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:27.348  INFO c.w.n.u.w.l.SubProcessStartListener      00000 -  ---> Start: Subprocess with executionId = 87 started with parameters:{workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:27.380  INFO c.w.n.u.w.l.SubProcessStartListener      00000 -  ---> Start: Subprocess with executionId = 96 started with parameters:{workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:27.387  INFO c.w.n.uima.workflow.logging.TaskLogger   00089 SubModel: supplier_name: Check training set ---> Start: SubModel: supplier_name: Check training set
+2019-08-09 12:12:27.387  INFO c.w.n.uima.workflow.logging.TaskLogger   00089 SubModel: supplier_name: Check training set Task-specific process variables: {}
+2019-08-09 12:12:27.393  INFO c.w.n.uima.workflow.logging.TaskLogger   00089 SubModel: supplier_name: Check training set Task variables: {fieldName=supplier_name, _context=supplier_name, splitByTagDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask}
+2019-08-09 12:12:27.410  INFO c.w.n.u.w.l.SubProcessStartListener      00000 -  ---> Start: Subprocess with executionId = 103 started with parameters:{workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:27.439  INFO c.w.n.u.w.l.SubProcessStartListener      00000 -  ---> Start: Subprocess with executionId = 112 started with parameters:{workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, fieldTagsExist_supplier_name=true, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:27.463  INFO c.w.n.u.w.l.SubProcessStartListener      00000 -  ---> Start: Subprocess with executionId = 109 started with parameters:{workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, fieldTagsExist_supplier_name=true, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:27.464  INFO c.w.n.uima.workflow.logging.TaskLogger   00094 SubModel: invoice_number: Check training set ---> Start: SubModel: invoice_number: Check training set
+2019-08-09 12:12:27.464  INFO c.w.n.uima.workflow.logging.TaskLogger   00094 SubModel: invoice_number: Check training set Task-specific process variables: {}
+2019-08-09 12:12:27.473  INFO c.w.n.uima.workflow.logging.TaskLogger   00094 SubModel: invoice_number: Check training set Task variables: {fieldName=invoice_number, _context=invoice_number, splitByTagDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask}
+2019-08-09 12:12:27.473  INFO c.w.n.uima.workflow.logging.TaskLogger   00100 SubModel: invoice_date: Check training set ---> Start: SubModel: invoice_date: Check training set
+2019-08-09 12:12:27.474  INFO c.w.n.uima.workflow.logging.TaskLogger   00100 SubModel: invoice_date: Check training set Task-specific process variables: {}
+2019-08-09 12:12:27.473  INFO c.w.n.u.w.l.SubProcessStartListener      00000 -  ---> Start: Subprocess with executionId = 121 started with parameters:{workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, fieldTagsExist_supplier_name=true, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:27.489  INFO c.w.n.uima.workflow.logging.TaskLogger   00100 SubModel: invoice_date: Check training set Task variables: {fieldName=invoice_date, _context=invoice_date, splitByTagDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask}
+2019-08-09 12:12:27.499  INFO c.w.n.uima.workflow.logging.TaskLogger   00116 SubModel: product: Check training set ---> Start: SubModel: product: Check training set
+2019-08-09 12:12:27.499  INFO c.w.n.uima.workflow.logging.TaskLogger   00116 SubModel: product: Check training set Task-specific process variables: {fieldTagsExist_supplier_name=true}
+2019-08-09 12:12:27.501  INFO c.w.n.uima.workflow.logging.TaskLogger   00116 SubModel: product: Check training set Task variables: {fieldName=product, _context=product, splitByTagDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask}
+2019-08-09 12:12:27.502  INFO c.w.n.u.w.l.SubProcessStartListener      00000 -  ---> Start: Subprocess with executionId = 131 started with parameters:{workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, fieldTagsExist_supplier_name=true, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"INFO_EXTRACTION","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[{"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"quantity","type":"NUMBER","required":true,"multiValue":true,"children":[],"properties":{}},{"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-09 12:12:27.502  INFO c.w.n.uima.workflow.logging.TaskLogger   00119 SubModel: email: Check training set ---> Start: SubModel: email: Check training set
+2019-08-09 12:12:27.503  INFO c.w.n.uima.workflow.logging.TaskLogger   00119 SubModel: email: Check training set Task-specific process variables: {}
+2019-08-09 12:12:27.505  INFO c.w.n.uima.workflow.logging.TaskLogger   00119 SubModel: email: Check training set Task variables: {fieldName=email, _context=email, splitByTagDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask}
+2019-08-09 12:12:27.512  INFO c.w.n.uima.workflow.logging.TaskLogger   00107 SubModel: total_amount: Check training set ---> Start: SubModel: total_amount: Check training set
+2019-08-09 12:12:27.513  INFO c.w.n.uima.workflow.logging.TaskLogger   00107 SubModel: total_amount: Check training set Task-specific process variables: {}
+2019-08-09 12:12:27.524  INFO c.w.n.uima.workflow.logging.TaskLogger   00107 SubModel: total_amount: Check training set Task variables: {fieldName=total_amount, _context=total_amount, splitByTagDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask}
+2019-08-09 12:12:27.537  INFO c.w.n.uima.workflow.logging.TaskLogger   00089 SubModel: supplier_name: Check training set <--- Finish: SubModel: supplier_name: Check training set (169 ms)
+2019-08-09 12:12:27.613  INFO c.w.n.uima.workflow.logging.TaskLogger   00116 SubModel: product: Check training set <--- Finish: SubModel: product: Check training set (115 ms)
+2019-08-09 12:12:27.618  INFO c.w.n.uima.workflow.logging.TaskLogger   00129 SubModel: supplier_name: (PE) CV Split ---> Start: SubModel: supplier_name: (PE) CV Split
+2019-08-09 12:12:27.619  INFO c.w.n.uima.workflow.logging.TaskLogger   00129 SubModel: supplier_name: (PE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:27.621  INFO c.w.n.uima.workflow.logging.TaskLogger   00100 SubModel: invoice_date: Check training set <--- Finish: SubModel: invoice_date: Check training set (205 ms)
+2019-08-09 12:12:27.621  INFO c.w.n.uima.workflow.logging.TaskLogger   00129 SubModel: supplier_name: (PE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/supplier_name, numFolds=5, _context=supplier_name, useBootstrap=true, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/supplier_name/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:27.623  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00129 SubModel: supplier_name: (PE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/supplier_name to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/supplier_name/
+2019-08-09 12:12:27.628  INFO c.w.n.uima.workflow.logging.TaskLogger   00135 SubModel: price: Check training set ---> Start: SubModel: price: Check training set
+2019-08-09 12:12:27.628  INFO c.w.n.uima.workflow.logging.TaskLogger   00135 SubModel: price: Check training set Task-specific process variables: {}
+2019-08-09 12:12:27.630  INFO c.w.n.uima.workflow.logging.TaskLogger   00135 SubModel: price: Check training set Task variables: {fieldName=price, _context=price, splitByTagDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask}
+2019-08-09 12:12:27.632  INFO c.w.n.uima.workflow.logging.TaskLogger   00125 SubModel: quantity: Check training set ---> Start: SubModel: quantity: Check training set
+2019-08-09 12:12:27.633  INFO c.w.n.uima.workflow.logging.TaskLogger   00125 SubModel: quantity: Check training set Task-specific process variables: {}
+2019-08-09 12:12:27.635  INFO c.w.n.uima.workflow.logging.TaskLogger   00125 SubModel: quantity: Check training set Task variables: {fieldName=quantity, _context=quantity, splitByTagDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask}
+2019-08-09 12:12:27.655  INFO c.w.n.uima.workflow.logging.TaskLogger   00119 SubModel: email: Check training set <--- Finish: SubModel: email: Check training set (160 ms)
+2019-08-09 12:12:27.662  INFO c.w.n.uima.workflow.logging.TaskLogger   00143 SubModel: product: (PE) CV Split ---> Start: SubModel: product: (PE) CV Split
+2019-08-09 12:12:27.662  INFO c.w.n.uima.workflow.logging.TaskLogger   00143 SubModel: product: (PE) CV Split Task-specific process variables: {fieldTagsExist_invoice_date=true, fieldTagsExist_email=true, fieldTagsExist_product=true, fieldTagsExist_total_amount=true}
+2019-08-09 12:12:27.671  INFO c.w.n.uima.workflow.logging.TaskLogger   00143 SubModel: product: (PE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/product, numFolds=5, _context=product, useBootstrap=true, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/product/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:27.672  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00143 SubModel: product: (PE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/product to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/product/
+2019-08-09 12:12:27.712  INFO c.w.n.uima.workflow.logging.TaskLogger   00107 SubModel: total_amount: Check training set <--- Finish: SubModel: total_amount: Check training set (240 ms)
+2019-08-09 12:12:27.729  INFO c.w.n.uima.workflow.logging.TaskLogger   00148 SubModel: invoice_date: (PE) CV Split ---> Start: SubModel: invoice_date: (PE) CV Split
+2019-08-09 12:12:27.730  INFO c.w.n.uima.workflow.logging.TaskLogger   00148 SubModel: invoice_date: (PE) CV Split Task-specific process variables: {fieldTagsExist_invoice_number=true}
+2019-08-09 12:12:27.731  INFO c.w.n.uima.workflow.logging.TaskLogger   00148 SubModel: invoice_date: (PE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/invoice_date, numFolds=5, _context=invoice_date, useBootstrap=true, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/invoice_date/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:27.732  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00148 SubModel: invoice_date: (PE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/invoice_date to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/invoice_date/
+2019-08-09 12:12:27.741  INFO c.w.n.uima.workflow.logging.TaskLogger   00094 SubModel: invoice_number: Check training set <--- Finish: SubModel: invoice_number: Check training set (335 ms)
+2019-08-09 12:12:27.747  INFO c.w.n.uima.workflow.logging.TaskLogger   00152 SubModel: email: (PE) CV Split ---> Start: SubModel: email: (PE) CV Split
+2019-08-09 12:12:27.749  INFO c.w.n.uima.workflow.logging.TaskLogger   00152 SubModel: email: (PE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:27.754  INFO c.w.n.uima.workflow.logging.TaskLogger   00152 SubModel: email: (PE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/email, numFolds=5, _context=email, useBootstrap=true, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/email/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:27.755  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00152 SubModel: email: (PE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/email to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/email/
+2019-08-09 12:12:27.768  INFO c.w.n.uima.workflow.logging.TaskLogger   00125 SubModel: quantity: Check training set <--- Finish: SubModel: quantity: Check training set (229 ms)
+2019-08-09 12:12:27.775  INFO c.w.n.uima.workflow.logging.TaskLogger   00156 SubModel: total_amount: (PE) CV Split ---> Start: SubModel: total_amount: (PE) CV Split
+2019-08-09 12:12:27.776  INFO c.w.n.uima.workflow.logging.TaskLogger   00156 SubModel: total_amount: (PE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:27.779  INFO c.w.n.uima.workflow.logging.TaskLogger   00156 SubModel: total_amount: (PE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/total_amount, numFolds=5, _context=total_amount, useBootstrap=true, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/total_amount/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:27.779  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00156 SubModel: total_amount: (PE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/total_amount to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/total_amount/
+2019-08-09 12:12:27.788  INFO c.w.n.uima.workflow.logging.TaskLogger   00135 SubModel: price: Check training set <--- Finish: SubModel: price: Check training set (164 ms)
+2019-08-09 12:12:27.793  INFO c.w.n.uima.workflow.logging.TaskLogger   00162 SubModel: invoice_number: (PE) CV Split ---> Start: SubModel: invoice_number: (PE) CV Split
+2019-08-09 12:12:27.794  INFO c.w.n.uima.workflow.logging.TaskLogger   00162 SubModel: invoice_number: (PE) CV Split Task-specific process variables: {fieldTagsExist_quantity=true, fieldTagsExist_price=true}
+2019-08-09 12:12:27.796  INFO c.w.n.uima.workflow.logging.TaskLogger   00162 SubModel: invoice_number: (PE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/invoice_number, numFolds=5, _context=invoice_number, useBootstrap=true, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/invoice_number/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:27.797  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00162 SubModel: invoice_number: (PE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/invoice_number to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/invoice_number/
+2019-08-09 12:12:28.142  INFO c.w.n.uima.workflow.logging.TaskLogger   00143 SubModel: product: (PE) CV Split <--- Finish: SubModel: product: (PE) CV Split (484 ms)
+2019-08-09 12:12:28.152  INFO c.w.n.uima.workflow.logging.TaskLogger   00166 SubModel: quantity: (PE) CV Split ---> Start: SubModel: quantity: (PE) CV Split
+2019-08-09 12:12:28.152  INFO c.w.n.uima.workflow.logging.TaskLogger   00166 SubModel: quantity: (PE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.157  INFO c.w.n.uima.workflow.logging.TaskLogger   00166 SubModel: quantity: (PE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/quantity, numFolds=5, _context=quantity, useBootstrap=true, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/quantity/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.158  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00166 SubModel: quantity: (PE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/quantity to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/quantity/
+2019-08-09 12:12:28.168  INFO c.w.n.uima.workflow.logging.TaskLogger   00156 SubModel: total_amount: (PE) CV Split <--- Finish: SubModel: total_amount: (PE) CV Split (387 ms)
+2019-08-09 12:12:28.175  INFO c.w.n.uima.workflow.logging.TaskLogger   00170 SubModel: price: (PE) CV Split ---> Start: SubModel: price: (PE) CV Split
+2019-08-09 12:12:28.175  INFO c.w.n.uima.workflow.logging.TaskLogger   00170 SubModel: price: (PE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.177  INFO c.w.n.uima.workflow.logging.TaskLogger   00170 SubModel: price: (PE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/price, numFolds=5, _context=price, useBootstrap=true, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/price/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.177  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00170 SubModel: price: (PE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/price to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/per-tag/price/
+2019-08-09 12:12:28.179  INFO c.w.n.uima.workflow.logging.TaskLogger   00152 SubModel: email: (PE) CV Split <--- Finish: SubModel: email: (PE) CV Split (436 ms)
+2019-08-09 12:12:28.186  INFO c.w.n.uima.workflow.logging.TaskLogger   00173 SubModel: product: (FE) CV Split ---> Start: SubModel: product: (FE) CV Split
+2019-08-09 12:12:28.186  INFO c.w.n.uima.workflow.logging.TaskLogger   00173 SubModel: product: (FE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.188  INFO c.w.n.uima.workflow.logging.TaskLogger   00173 SubModel: product: (FE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/product, numFolds=5, _context=product, useBootstrap=false, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/product/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.189  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00173 SubModel: product: (FE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/product to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/product/
+2019-08-09 12:12:28.196  INFO c.w.n.uima.workflow.logging.TaskLogger   00162 SubModel: invoice_number: (PE) CV Split <--- Finish: SubModel: invoice_number: (PE) CV Split (405 ms)
+2019-08-09 12:12:28.203  INFO c.w.n.uima.workflow.logging.TaskLogger   00176 SubModel: total_amount: (FE) CV Split ---> Start: SubModel: total_amount: (FE) CV Split
+2019-08-09 12:12:28.203  INFO c.w.n.uima.workflow.logging.TaskLogger   00176 SubModel: total_amount: (FE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.205  INFO c.w.n.uima.workflow.logging.TaskLogger   00176 SubModel: total_amount: (FE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/total_amount, numFolds=5, _context=total_amount, useBootstrap=false, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/total_amount/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.206  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00176 SubModel: total_amount: (FE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/total_amount to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/total_amount/
+2019-08-09 12:12:28.218  INFO c.w.n.uima.workflow.logging.TaskLogger   00148 SubModel: invoice_date: (PE) CV Split <--- Finish: SubModel: invoice_date: (PE) CV Split (504 ms)
+2019-08-09 12:12:28.227  INFO c.w.n.uima.workflow.logging.TaskLogger   00179 SubModel: email: (FE) CV Split ---> Start: SubModel: email: (FE) CV Split
+2019-08-09 12:12:28.228  INFO c.w.n.uima.workflow.logging.TaskLogger   00179 SubModel: email: (FE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.232  INFO c.w.n.uima.workflow.logging.TaskLogger   00179 SubModel: email: (FE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/email, numFolds=5, _context=email, useBootstrap=false, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/email/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.233  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00179 SubModel: email: (FE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/email to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/email/
+2019-08-09 12:12:28.237  INFO c.w.n.uima.workflow.logging.TaskLogger   00129 SubModel: supplier_name: (PE) CV Split <--- Finish: SubModel: supplier_name: (PE) CV Split (620 ms)
+2019-08-09 12:12:28.243  INFO c.w.n.uima.workflow.logging.TaskLogger   00182 SubModel: invoice_number: (FE) CV Split ---> Start: SubModel: invoice_number: (FE) CV Split
+2019-08-09 12:12:28.243  INFO c.w.n.uima.workflow.logging.TaskLogger   00182 SubModel: invoice_number: (FE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.245  INFO c.w.n.uima.workflow.logging.TaskLogger   00182 SubModel: invoice_number: (FE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/invoice_number, numFolds=5, _context=invoice_number, useBootstrap=false, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/invoice_number/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.246  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00182 SubModel: invoice_number: (FE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/invoice_number to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/invoice_number/
+2019-08-09 12:12:28.473  INFO c.w.n.uima.workflow.logging.TaskLogger   00176 SubModel: total_amount: (FE) CV Split <--- Finish: SubModel: total_amount: (FE) CV Split (275 ms)
+2019-08-09 12:12:28.479  INFO c.w.n.uima.workflow.logging.TaskLogger   00185 SubModel: invoice_date: (FE) CV Split ---> Start: SubModel: invoice_date: (FE) CV Split
+2019-08-09 12:12:28.480  INFO c.w.n.uima.workflow.logging.TaskLogger   00185 SubModel: invoice_date: (FE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.481  INFO c.w.n.uima.workflow.logging.TaskLogger   00185 SubModel: invoice_date: (FE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/invoice_date, numFolds=5, _context=invoice_date, useBootstrap=false, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/invoice_date/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.482  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00185 SubModel: invoice_date: (FE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/invoice_date to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/invoice_date/
+2019-08-09 12:12:28.488  INFO c.w.n.uima.workflow.logging.TaskLogger   00173 SubModel: product: (FE) CV Split <--- Finish: SubModel: product: (FE) CV Split (307 ms)
+2019-08-09 12:12:28.500  INFO c.w.n.uima.workflow.logging.TaskLogger   00188 SubModel: supplier_name: (FE) CV Split ---> Start: SubModel: supplier_name: (FE) CV Split
+2019-08-09 12:12:28.500  INFO c.w.n.uima.workflow.logging.TaskLogger   00188 SubModel: supplier_name: (FE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.502  INFO c.w.n.uima.workflow.logging.TaskLogger   00188 SubModel: supplier_name: (FE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/supplier_name, numFolds=5, _context=supplier_name, useBootstrap=false, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/supplier_name/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.503  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00188 SubModel: supplier_name: (FE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/supplier_name to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/supplier_name/
+2019-08-09 12:12:28.594  INFO c.w.n.uima.workflow.logging.TaskLogger   00182 SubModel: invoice_number: (FE) CV Split <--- Finish: SubModel: invoice_number: (FE) CV Split (355 ms)
+2019-08-09 12:12:28.598  INFO c.w.n.uima.workflow.logging.TaskLogger   00191 SubModel: total_amount: Define hpoId var ---> Start: SubModel: total_amount: Define hpoId var
+2019-08-09 12:12:28.599  INFO c.w.n.uima.workflow.logging.TaskLogger   00191 SubModel: total_amount: Define hpoId var Task-specific process variables: {}
+2019-08-09 12:12:28.599  INFO c.w.n.uima.workflow.logging.TaskLogger   00191 SubModel: total_amount: Define hpoId var Task variables: {variables=hpoId, _context=total_amount, value=total_amount, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:28.638  INFO c.w.n.uima.workflow.logging.TaskLogger   00191 SubModel: total_amount: Define hpoId var <--- Finish: SubModel: total_amount: Define hpoId var (41 ms)
+2019-08-09 12:12:28.642  INFO c.w.n.uima.workflow.logging.TaskLogger   00194 SubModel: product: Define hpoId var ---> Start: SubModel: product: Define hpoId var
+2019-08-09 12:12:28.643  INFO c.w.n.uima.workflow.logging.TaskLogger   00194 SubModel: product: Define hpoId var Task-specific process variables: {}
+2019-08-09 12:12:28.643  INFO c.w.n.uima.workflow.logging.TaskLogger   00194 SubModel: product: Define hpoId var Task variables: {variables=hpoId, _context=product, value=product, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:28.671  INFO c.w.n.uima.workflow.logging.TaskLogger   00170 SubModel: price: (PE) CV Split <--- Finish: SubModel: price: (PE) CV Split (489 ms)
+2019-08-09 12:12:28.676  INFO c.w.n.uima.workflow.logging.TaskLogger   00197 SubModel: invoice_number: Define hpoId var ---> Start: SubModel: invoice_number: Define hpoId var
+2019-08-09 12:12:28.677  INFO c.w.n.uima.workflow.logging.TaskLogger   00197 SubModel: invoice_number: Define hpoId var Task-specific process variables: {}
+2019-08-09 12:12:28.678  INFO c.w.n.uima.workflow.logging.TaskLogger   00197 SubModel: invoice_number: Define hpoId var Task variables: {variables=hpoId, _context=invoice_number, value=invoice_number, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:28.706  INFO c.w.n.uima.workflow.logging.TaskLogger   00194 SubModel: product: Define hpoId var <--- Finish: SubModel: product: Define hpoId var (66 ms)
+2019-08-09 12:12:28.710  INFO c.w.n.uima.workflow.logging.TaskLogger   00201 SubModel: total_amount: Define FieldInfo var ---> Start: SubModel: total_amount: Define FieldInfo var
+2019-08-09 12:12:28.710  INFO c.w.n.uima.workflow.logging.TaskLogger   00201 SubModel: total_amount: Define FieldInfo var Task-specific process variables: {}
+2019-08-09 12:12:28.711  INFO c.w.n.uima.workflow.logging.TaskLogger   00201 SubModel: total_amount: Define FieldInfo var Task variables: {variables=fieldInfo, _context=total_amount, value={"code":"total_amount","type":"TOTAL_AMOUNT","required":true,"multiValue":false,"children":[],"properties":{}}, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:28.733  INFO c.w.n.uima.workflow.logging.TaskLogger   00179 SubModel: email: (FE) CV Split <--- Finish: SubModel: email: (FE) CV Split (513 ms)
+2019-08-09 12:12:28.745  INFO c.w.n.uima.workflow.logging.TaskLogger   00204 SubModel: price: (FE) CV Split ---> Start: SubModel: price: (FE) CV Split
+2019-08-09 12:12:28.745  INFO c.w.n.uima.workflow.logging.TaskLogger   00204 SubModel: price: (FE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.747  INFO c.w.n.uima.workflow.logging.TaskLogger   00204 SubModel: price: (FE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/price, numFolds=5, _context=price, useBootstrap=false, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/price/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.748  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00204 SubModel: price: (FE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/price to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/price/
+2019-08-09 12:12:28.761  INFO c.w.n.uima.workflow.logging.TaskLogger   00197 SubModel: invoice_number: Define hpoId var <--- Finish: SubModel: invoice_number: Define hpoId var (78 ms)
+2019-08-09 12:12:28.765  INFO c.w.n.uima.workflow.logging.TaskLogger   00208 SubModel: product: Define FieldInfo var ---> Start: SubModel: product: Define FieldInfo var
+2019-08-09 12:12:28.766  INFO c.w.n.uima.workflow.logging.TaskLogger   00208 SubModel: product: Define FieldInfo var Task-specific process variables: {}
+2019-08-09 12:12:28.767  INFO c.w.n.uima.workflow.logging.TaskLogger   00208 SubModel: product: Define FieldInfo var Task variables: {variables=fieldInfo, _context=product, value={"code":"product","type":"FREE_TEXT","required":true,"multiValue":true,"children":[],"properties":{}}, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:28.785  INFO c.w.n.uima.workflow.logging.TaskLogger   00166 SubModel: quantity: (PE) CV Split <--- Finish: SubModel: quantity: (PE) CV Split (641 ms)
+2019-08-09 12:12:28.792  INFO c.w.n.uima.workflow.logging.TaskLogger   00212 SubModel: email: Define hpoId var ---> Start: SubModel: email: Define hpoId var
+2019-08-09 12:12:28.792  INFO c.w.n.uima.workflow.logging.TaskLogger   00212 SubModel: email: Define hpoId var Task-specific process variables: {}
+2019-08-09 12:12:28.793  INFO c.w.n.uima.workflow.logging.TaskLogger   00212 SubModel: email: Define hpoId var Task variables: {variables=hpoId, _context=email, value=email, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:28.802  INFO c.w.n.uima.workflow.logging.TaskLogger   00201 SubModel: total_amount: Define FieldInfo var <--- Finish: SubModel: total_amount: Define FieldInfo var (95 ms)
+2019-08-09 12:12:28.806  INFO c.w.n.uima.workflow.logging.TaskLogger   00215 SubModel: invoice_number: Define FieldInfo var ---> Start: SubModel: invoice_number: Define FieldInfo var
+2019-08-09 12:12:28.806  INFO c.w.n.uima.workflow.logging.TaskLogger   00215 SubModel: invoice_number: Define FieldInfo var Task-specific process variables: {}
+2019-08-09 12:12:28.807  INFO c.w.n.uima.workflow.logging.TaskLogger   00215 SubModel: invoice_number: Define FieldInfo var Task variables: {variables=fieldInfo, _context=invoice_number, value={"code":"invoice_number","type":"INVOICE_NUMBER","required":true,"multiValue":false,"children":[],"properties":{}}, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:28.821  INFO c.w.n.uima.workflow.logging.TaskLogger   00208 SubModel: product: Define FieldInfo var <--- Finish: SubModel: product: Define FieldInfo var (57 ms)
+2019-08-09 12:12:28.828  INFO c.w.n.uima.workflow.logging.TaskLogger   00219 SubModel: quantity: (FE) CV Split ---> Start: SubModel: quantity: (FE) CV Split
+2019-08-09 12:12:28.828  INFO c.w.n.uima.workflow.logging.TaskLogger   00219 SubModel: quantity: (FE) CV Split Task-specific process variables: {}
+2019-08-09 12:12:28.829  INFO c.w.n.uima.workflow.logging.TaskLogger   00219 SubModel: quantity: (FE) CV Split Task variables: {inputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/quantity, numFolds=5, _context=quantity, useBootstrap=false, splitOutputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/quantity/, _taskClass=com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask}
+2019-08-09 12:12:28.830  INFO c.w.n.u.w.t.cv.CrossValidationSplitTask  00219 SubModel: quantity: (FE) CV Split Split file from C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/quantity to C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/split/full-eval/quantity/
+2019-08-09 12:12:28.845  INFO c.w.n.uima.workflow.logging.TaskLogger   00215 SubModel: invoice_number: Define FieldInfo var <--- Finish: SubModel: invoice_number: Define FieldInfo var (40 ms)
+2019-08-09 12:12:28.850  INFO c.w.n.uima.workflow.logging.TaskLogger   00223 SubModel: total_amount: Enable all params from configuration ---> Start: SubModel: total_amount: Enable all params from configuration
+2019-08-09 12:12:28.850  INFO c.w.n.uima.workflow.logging.TaskLogger   00223 SubModel: total_amount: Enable all params from configuration Task-specific process variables: {}
+2019-08-09 12:12:28.852  INFO c.w.n.uima.workflow.logging.TaskLogger   00223 SubModel: total_amount: Enable all params from configuration Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/pre-eval/total_amount/, modelId=total_amount, _context=total_amount, useFirstTokenizer={"@type":"boolean","value":false}, _taskClass=com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask}
+2019-08-09 12:12:28.854  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00223 SubModel: total_amount: Enable all params from configuration Starting EnableAllParametersTask[total_amount]
+2019-08-09 12:12:28.855  INFO c.w.v.n.m.c.ConfigurationInstance        00223 SubModel: total_amount: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:28.856  INFO c.w.v.n.m.c.ConfigurationInstance        00223 SubModel: total_amount: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:28.857  INFO c.w.v.n.m.c.ConfigurationInstance        00223 SubModel: total_amount: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:28.858  INFO c.w.v.n.m.c.ConfigurationInstance        00223 SubModel: total_amount: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:28.868  INFO c.w.n.uima.workflow.logging.TaskLogger   00212 SubModel: email: Define hpoId var <--- Finish: SubModel: email: Define hpoId var (80 ms)
+2019-08-09 12:12:28.875  INFO c.w.n.uima.workflow.logging.TaskLogger   00226 SubModel: product: Enable all params from configuration ---> Start: SubModel: product: Enable all params from configuration
+2019-08-09 12:12:28.875  INFO c.w.n.uima.workflow.logging.TaskLogger   00226 SubModel: product: Enable all params from configuration Task-specific process variables: {}
+2019-08-09 12:12:28.876  INFO c.w.n.uima.workflow.logging.TaskLogger   00226 SubModel: product: Enable all params from configuration Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/pre-eval/product/, modelId=product, _context=product, useFirstTokenizer={"@type":"boolean","value":false}, _taskClass=com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask}
+2019-08-09 12:12:28.884 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00223 SubModel: total_amount: Enable all params from configuration Exception occurred in EnableAllParametersTask[total_amount]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /total_amount/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:28.890  WARN c.w.n.u.w.async.TaskExecutionService     00223 SubModel: total_amount: Enable all params from configuration Error during task execution: Task[id=223, name=SubModel: total_amount: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /total_amount/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /total_amount/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:28.891  WARN c.w.n.u.w.async.TaskExecutionService     00223 SubModel: total_amount: Enable all params from configuration Performing retry for Task[id=223, name=SubModel: total_amount: Enable all params from configuration], retryLimit: 3, retryCount: 2
+2019-08-09 12:12:28.893  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00226 SubModel: product: Enable all params from configuration Starting EnableAllParametersTask[product]
+2019-08-09 12:12:28.896  INFO c.w.v.n.m.c.ConfigurationInstance        00226 SubModel: product: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:28.897  INFO c.w.v.n.m.c.ConfigurationInstance        00226 SubModel: product: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:28.898  INFO c.w.v.n.m.c.ConfigurationInstance        00226 SubModel: product: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:28.900  INFO c.w.v.n.m.c.ConfigurationInstance        00226 SubModel: product: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:28.904 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00226 SubModel: product: Enable all params from configuration Exception occurred in EnableAllParametersTask[product]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /product/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:28.904  WARN c.w.n.u.w.async.TaskExecutionService     00226 SubModel: product: Enable all params from configuration Error during task execution: Task[id=226, name=SubModel: product: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /product/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /product/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:28.905  WARN c.w.n.u.w.async.TaskExecutionService     00226 SubModel: product: Enable all params from configuration Performing retry for Task[id=226, name=SubModel: product: Enable all params from configuration], retryLimit: 3, retryCount: 2
+2019-08-09 12:12:28.934  INFO c.w.n.uima.workflow.logging.TaskLogger   00185 SubModel: invoice_date: (FE) CV Split <--- Finish: SubModel: invoice_date: (FE) CV Split (458 ms)
+2019-08-09 12:12:28.939  INFO c.w.n.uima.workflow.logging.TaskLogger   00231 SubModel: invoice_number: Enable all params from configuration ---> Start: SubModel: invoice_number: Enable all params from configuration
+2019-08-09 12:12:28.939  INFO c.w.n.uima.workflow.logging.TaskLogger   00231 SubModel: invoice_number: Enable all params from configuration Task-specific process variables: {}
+2019-08-09 12:12:28.941  INFO c.w.n.uima.workflow.logging.TaskLogger   00231 SubModel: invoice_number: Enable all params from configuration Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/pre-eval/invoice_number/, modelId=invoice_number, _context=invoice_number, useFirstTokenizer={"@type":"boolean","value":false}, _taskClass=com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask}
+2019-08-09 12:12:28.942  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00231 SubModel: invoice_number: Enable all params from configuration Starting EnableAllParametersTask[invoice_number]
+2019-08-09 12:12:28.943  INFO c.w.v.n.m.c.ConfigurationInstance        00231 SubModel: invoice_number: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:28.944  INFO c.w.v.n.m.c.ConfigurationInstance        00231 SubModel: invoice_number: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:28.945  INFO c.w.v.n.m.c.ConfigurationInstance        00231 SubModel: invoice_number: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:28.946  INFO c.w.v.n.m.c.ConfigurationInstance        00231 SubModel: invoice_number: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:28.992  INFO c.w.n.uima.workflow.logging.TaskLogger   00188 SubModel: supplier_name: (FE) CV Split <--- Finish: SubModel: supplier_name: (FE) CV Split (501 ms)
+2019-08-09 12:12:28.997  INFO c.w.n.uima.workflow.logging.TaskLogger   00234 SubModel: email: Define FieldInfo var ---> Start: SubModel: email: Define FieldInfo var
+2019-08-09 12:12:28.997  INFO c.w.n.uima.workflow.logging.TaskLogger   00234 SubModel: email: Define FieldInfo var Task-specific process variables: {}
+2019-08-09 12:12:28.998  INFO c.w.n.uima.workflow.logging.TaskLogger   00234 SubModel: email: Define FieldInfo var Task variables: {variables=fieldInfo, _context=email, value={"code":"email","type":"EMAIL","required":true,"multiValue":false,"children":[],"properties":{}}, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:29.026  INFO c.w.n.uima.workflow.logging.TaskLogger   00204 SubModel: price: (FE) CV Split <--- Finish: SubModel: price: (FE) CV Split (291 ms)
+2019-08-09 12:12:29.031  INFO c.w.n.uima.workflow.logging.TaskLogger   00237 SubModel: invoice_date: Define hpoId var ---> Start: SubModel: invoice_date: Define hpoId var
+2019-08-09 12:12:29.032  INFO c.w.n.uima.workflow.logging.TaskLogger   00237 SubModel: invoice_date: Define hpoId var Task-specific process variables: {}
+2019-08-09 12:12:29.032  INFO c.w.n.uima.workflow.logging.TaskLogger   00237 SubModel: invoice_date: Define hpoId var Task variables: {variables=hpoId, _context=invoice_date, value=invoice_date, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:29.040  INFO c.w.n.uima.workflow.logging.TaskLogger   00234 SubModel: email: Define FieldInfo var <--- Finish: SubModel: email: Define FieldInfo var (46 ms)
+2019-08-09 12:12:29.045  INFO c.w.n.uima.workflow.logging.TaskLogger   00240 SubModel: supplier_name: Define hpoId var ---> Start: SubModel: supplier_name: Define hpoId var
+2019-08-09 12:12:29.045  INFO c.w.n.uima.workflow.logging.TaskLogger   00240 SubModel: supplier_name: Define hpoId var Task-specific process variables: {}
+2019-08-09 12:12:29.045  INFO c.w.n.uima.workflow.logging.TaskLogger   00240 SubModel: supplier_name: Define hpoId var Task variables: {variables=hpoId, _context=supplier_name, value=supplier_name, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:29.049  INFO c.w.v.n.m.c.ConfigurationInstance        00231 SubModel: invoice_number: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.051  INFO c.w.v.n.m.c.ConfigurationInstance        00231 SubModel: invoice_number: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.052  INFO c.w.v.n.m.c.ConfigurationInstance        00231 SubModel: invoice_number: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.053  INFO c.w.v.n.m.c.ConfigurationInstance        00231 SubModel: invoice_number: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.077  INFO c.w.n.uima.workflow.logging.TaskLogger   00237 SubModel: invoice_date: Define hpoId var <--- Finish: SubModel: invoice_date: Define hpoId var (48 ms)
+2019-08-09 12:12:29.081  INFO c.w.n.uima.workflow.logging.TaskLogger   00244 SubModel: price: Define hpoId var ---> Start: SubModel: price: Define hpoId var
+2019-08-09 12:12:29.081  INFO c.w.n.uima.workflow.logging.TaskLogger   00244 SubModel: price: Define hpoId var Task-specific process variables: {}
+2019-08-09 12:12:29.083  INFO c.w.n.uima.workflow.logging.TaskLogger   00244 SubModel: price: Define hpoId var Task variables: {variables=hpoId, _context=price, value=price, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:29.093  INFO c.w.n.uima.workflow.logging.TaskLogger   00240 SubModel: supplier_name: Define hpoId var <--- Finish: SubModel: supplier_name: Define hpoId var (52 ms)
+2019-08-09 12:12:29.101  INFO c.w.n.uima.workflow.logging.TaskLogger   00247 SubModel: email: Enable all params from configuration ---> Start: SubModel: email: Enable all params from configuration
+2019-08-09 12:12:29.101  INFO c.w.n.uima.workflow.logging.TaskLogger   00247 SubModel: email: Enable all params from configuration Task-specific process variables: {}
+2019-08-09 12:12:29.103  INFO c.w.n.uima.workflow.logging.TaskLogger   00247 SubModel: email: Enable all params from configuration Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/pre-eval/email/, modelId=email, _context=email, useFirstTokenizer={"@type":"boolean","value":false}, _taskClass=com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask}
+2019-08-09 12:12:29.104  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00247 SubModel: email: Enable all params from configuration Starting EnableAllParametersTask[email]
+2019-08-09 12:12:29.106  INFO c.w.v.n.m.c.ConfigurationInstance        00247 SubModel: email: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.108  INFO c.w.v.n.m.c.ConfigurationInstance        00247 SubModel: email: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.109  INFO c.w.v.n.m.c.ConfigurationInstance        00247 SubModel: email: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.110  INFO c.w.v.n.m.c.ConfigurationInstance        00247 SubModel: email: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.113 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00247 SubModel: email: Enable all params from configuration Exception occurred in EnableAllParametersTask[email]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /email/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:29.114  WARN c.w.n.u.w.async.TaskExecutionService     00247 SubModel: email: Enable all params from configuration Error during task execution: Task[id=247, name=SubModel: email: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /email/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /email/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:29.114  WARN c.w.n.u.w.async.TaskExecutionService     00247 SubModel: email: Enable all params from configuration Performing retry for Task[id=247, name=SubModel: email: Enable all params from configuration], retryLimit: 3, retryCount: 2
+2019-08-09 12:12:29.133  INFO c.w.n.uima.workflow.logging.TaskLogger   00244 SubModel: price: Define hpoId var <--- Finish: SubModel: price: Define hpoId var (54 ms)
+2019-08-09 12:12:29.137  INFO c.w.n.uima.workflow.logging.TaskLogger   00252 SubModel: invoice_date: Define FieldInfo var ---> Start: SubModel: invoice_date: Define FieldInfo var
+2019-08-09 12:12:29.137  INFO c.w.n.uima.workflow.logging.TaskLogger   00252 SubModel: invoice_date: Define FieldInfo var Task-specific process variables: {}
+2019-08-09 12:12:29.138  INFO c.w.n.uima.workflow.logging.TaskLogger   00252 SubModel: invoice_date: Define FieldInfo var Task variables: {variables=fieldInfo, _context=invoice_date, value={"code":"invoice_date","type":"INVOICE_DATE","required":true,"multiValue":false,"children":[],"properties":{}}, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:29.170  INFO c.w.n.uima.workflow.logging.TaskLogger   00252 SubModel: invoice_date: Define FieldInfo var <--- Finish: SubModel: invoice_date: Define FieldInfo var (36 ms)
+2019-08-09 12:12:29.174  INFO c.w.n.uima.workflow.logging.TaskLogger   00255 SubModel: supplier_name: Define FieldInfo var ---> Start: SubModel: supplier_name: Define FieldInfo var
+2019-08-09 12:12:29.175  INFO c.w.n.uima.workflow.logging.TaskLogger   00255 SubModel: supplier_name: Define FieldInfo var Task-specific process variables: {}
+2019-08-09 12:12:29.175  INFO c.w.n.uima.workflow.logging.TaskLogger   00255 SubModel: supplier_name: Define FieldInfo var Task variables: {variables=fieldInfo, _context=supplier_name, value={"code":"supplier_name","type":"ID","required":true,"multiValue":false,"children":[],"properties":{}}, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:29.184  INFO c.w.n.uima.workflow.logging.TaskLogger   00219 SubModel: quantity: (FE) CV Split <--- Finish: SubModel: quantity: (FE) CV Split (361 ms)
+2019-08-09 12:12:29.196  INFO c.w.n.uima.workflow.logging.TaskLogger   00259 SubModel: price: Define FieldInfo var ---> Start: SubModel: price: Define FieldInfo var
+2019-08-09 12:12:29.196  INFO c.w.n.uima.workflow.logging.TaskLogger   00259 SubModel: price: Define FieldInfo var Task-specific process variables: {}
+2019-08-09 12:12:29.197  INFO c.w.n.uima.workflow.logging.TaskLogger   00259 SubModel: price: Define FieldInfo var Task variables: {variables=fieldInfo, _context=price, value={"code":"price","type":"PRICE","required":true,"multiValue":true,"children":[],"properties":{}}, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:29.207  INFO c.w.n.uima.workflow.logging.TaskLogger   00231 SubModel: invoice_number: Enable all params from configuration <--- Finish: SubModel: invoice_number: Enable all params from configuration - invoice_number (270 ms)
+2019-08-09 12:12:29.210  INFO c.w.n.uima.workflow.logging.TaskLogger   00266 SubModel: invoice_date: Enable all params from configuration ---> Start: SubModel: invoice_date: Enable all params from configuration
+2019-08-09 12:12:29.210  INFO c.w.n.uima.workflow.logging.TaskLogger   00266 SubModel: invoice_date: Enable all params from configuration Task-specific process variables: {}
+2019-08-09 12:12:29.212  INFO c.w.n.uima.workflow.logging.TaskLogger   00266 SubModel: invoice_date: Enable all params from configuration Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/pre-eval/invoice_date/, modelId=invoice_date, _context=invoice_date, useFirstTokenizer={"@type":"boolean","value":false}, _taskClass=com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask}
+2019-08-09 12:12:29.213  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00266 SubModel: invoice_date: Enable all params from configuration Starting EnableAllParametersTask[invoice_date]
+2019-08-09 12:12:29.214  INFO c.w.v.n.m.c.ConfigurationInstance        00266 SubModel: invoice_date: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.215  INFO c.w.v.n.m.c.ConfigurationInstance        00266 SubModel: invoice_date: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.216  INFO c.w.v.n.m.c.ConfigurationInstance        00266 SubModel: invoice_date: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.217  INFO c.w.v.n.m.c.ConfigurationInstance        00266 SubModel: invoice_date: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.219 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00266 SubModel: invoice_date: Enable all params from configuration Exception occurred in EnableAllParametersTask[invoice_date]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /invoice_date/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:29.220  WARN c.w.n.u.w.async.TaskExecutionService     00266 SubModel: invoice_date: Enable all params from configuration Error during task execution: Task[id=266, name=SubModel: invoice_date: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /invoice_date/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /invoice_date/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:29.220  WARN c.w.n.u.w.async.TaskExecutionService     00266 SubModel: invoice_date: Enable all params from configuration Performing retry for Task[id=266, name=SubModel: invoice_date: Enable all params from configuration], retryLimit: 3, retryCount: 2
+2019-08-09 12:12:29.234  INFO c.w.n.uima.workflow.logging.TaskLogger   00255 SubModel: supplier_name: Define FieldInfo var <--- Finish: SubModel: supplier_name: Define FieldInfo var (53 ms)
+2019-08-09 12:12:29.238  INFO c.w.n.uima.workflow.logging.TaskLogger   00259 SubModel: price: Define FieldInfo var <--- Finish: SubModel: price: Define FieldInfo var (53 ms)
+2019-08-09 12:12:29.240  INFO c.w.n.uima.workflow.logging.TaskLogger   00269 SubModel: quantity: Define hpoId var ---> Start: SubModel: quantity: Define hpoId var
+2019-08-09 12:12:29.240  INFO c.w.n.uima.workflow.logging.TaskLogger   00269 SubModel: quantity: Define hpoId var Task-specific process variables: {}
+2019-08-09 12:12:29.241  INFO c.w.n.uima.workflow.logging.TaskLogger   00269 SubModel: quantity: Define hpoId var Task variables: {variables=hpoId, _context=quantity, value=quantity, _taskClass=com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables}
+2019-08-09 12:12:29.245  INFO c.w.n.uima.workflow.logging.TaskLogger   00274 SubModel: invoice_number: Save best experiment params ---> Start: SubModel: invoice_number: Save best experiment params - invoice_number
+2019-08-09 12:12:29.245  INFO c.w.n.uima.workflow.logging.TaskLogger   00274 SubModel: invoice_number: Save best experiment params Task-specific process variables: {}
+2019-08-09 12:12:29.247  INFO c.w.n.uima.workflow.logging.TaskLogger   00274 SubModel: invoice_number: Save best experiment params Task variables: {outputFile=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/eval/invoice_number/invoice_number/config/parameters.json, _context=invoice_number, _taskClass=com.workfusion.nlp.uima.workflow.task.experiment.SaveExperimentParamsTask}
+2019-08-09 12:12:29.249  INFO c.w.v.n.m.c.ConfigurationInstance        00274 SubModel: invoice_number: Save best experiment params Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.250  INFO c.w.v.n.m.c.ConfigurationInstance        00274 SubModel: invoice_number: Save best experiment params Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.251  INFO c.w.v.n.m.c.ConfigurationInstance        00274 SubModel: invoice_number: Save best experiment params Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.253  INFO c.w.v.n.m.c.ConfigurationInstance        00274 SubModel: invoice_number: Save best experiment params Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.266  INFO c.w.n.uima.workflow.logging.TaskLogger   00269 SubModel: quantity: Define hpoId var <--- Finish: SubModel: quantity: Define hpoId var (30 ms)
+2019-08-09 12:12:29.270  INFO c.w.n.uima.workflow.logging.TaskLogger   00278 SubModel: supplier_name: Enable all params from configuration ---> Start: SubModel: supplier_name: Enable all params from configuration
+2019-08-09 12:12:29.270  INFO c.w.n.uima.workflow.logging.TaskLogger   00278 SubModel: supplier_name: Enable all params from configuration Task-specific process variables: {}
+2019-08-09 12:12:29.271  INFO c.w.n.uima.workflow.logging.TaskLogger   00278 SubModel: supplier_name: Enable all params from configuration Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/pre-eval/supplier_name/, modelId=supplier_name, _context=supplier_name, useFirstTokenizer={"@type":"boolean","value":false}, _taskClass=com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask}
+2019-08-09 12:12:29.272  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00278 SubModel: supplier_name: Enable all params from configuration Starting EnableAllParametersTask[supplier_name]
+2019-08-09 12:12:29.273  INFO c.w.v.n.m.c.ConfigurationInstance        00278 SubModel: supplier_name: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.274  INFO c.w.v.n.m.c.ConfigurationInstance        00278 SubModel: supplier_name: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.274  INFO c.w.v.n.m.c.ConfigurationInstance        00278 SubModel: supplier_name: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.276  INFO c.w.v.n.m.c.ConfigurationInstance        00278 SubModel: supplier_name: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.277 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00278 SubModel: supplier_name: Enable all params from configuration Exception occurred in EnableAllParametersTask[supplier_name]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /supplier_name/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:29.278  WARN c.w.n.u.w.async.TaskExecutionService     00278 SubModel: supplier_name: Enable all params from configuration Error during task execution: Task[id=278, name=SubModel: supplier_name: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /supplier_name/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /supplier_name/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:29.278  WARN c.w.n.u.w.async.TaskExecutionService     00278 SubModel: supplier_name: Enable all params from configuration Performing retry for Task[id=278, name=SubModel: supplier_name: Enable all params from configuration], retryLimit: 3, retryCount: 2
+2019-08-09 12:12:29.294  INFO c.w.v.n.m.c.ConfigurationInstance        00274 SubModel: invoice_number: Save best experiment params Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.296  INFO c.w.v.n.m.c.ConfigurationInstance        00274 SubModel: invoice_number: Save best experiment params Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.297  INFO c.w.v.n.m.c.ConfigurationInstance        00274 SubModel: invoice_number: Save best experiment params Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.298  INFO c.w.v.n.m.c.ConfigurationInstance        00274 SubModel: invoice_number: Save best experiment params Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.446  INFO c.w.n.uima.workflow.logging.TaskLogger   00274 SubModel: invoice_number: Save best experiment params <--- Finish: SubModel: invoice_number: Save best experiment params - invoice_number (205 ms)
+2019-08-09 12:12:29.449  INFO c.w.n.uima.workflow.logging.TaskLogger   00281 SubModel: price: Enable all params from configuration ---> Start: SubModel: price: Enable all params from configuration
+2019-08-09 12:12:29.450  INFO c.w.n.uima.workflow.logging.TaskLogger   00281 SubModel: price: Enable all params from configuration Task-specific process variables: {}
+2019-08-09 12:12:29.451  INFO c.w.n.uima.workflow.logging.TaskLogger   00281 SubModel: price: Enable all params from configuration Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/pre-eval/price/, modelId=price, _context=price, useFirstTokenizer={"@type":"boolean","value":false}, _taskClass=com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask}
+2019-08-09 12:12:29.452  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00281 SubModel: price: Enable all params from configuration Starting EnableAllParametersTask[price]
+2019-08-09 12:12:29.452  INFO c.w.v.n.m.c.ConfigurationInstance        00281 SubModel: price: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.453  INFO c.w.v.n.m.c.ConfigurationInstance        00281 SubModel: price: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.454  INFO c.w.v.n.m.c.ConfigurationInstance        00281 SubModel: price: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:29.455  INFO c.w.v.n.m.c.ConfigurationInstance        00281 SubModel: price: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:29.457 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00281 SubModel: price: Enable all params from configuration Exception occurred in EnableAllParametersTask[price]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /price/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:29.457  WARN c.w.n.u.w.async.TaskExecutionService     00281 SubModel: price: Enable all params from configuration Error during task execution: Task[id=281, name=SubModel: price: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /price/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /price/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:29.458  WARN c.w.n.u.w.async.TaskExecutionService     00281 SubModel: price: Enable all params from configuration Performing retry for Task[id=281, name=SubModel: price: Enable all params from configuration], retryLimit: 3, retryCount: 2
+2019-08-09 12:12:38.893  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00223 SubModel: total_amount: Enable all params from configuration Starting EnableAllParametersTask[total_amount]
+2019-08-09 12:12:38.893  INFO c.w.v.n.m.c.ConfigurationInstance        00223 SubModel: total_amount: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:38.893  INFO c.w.v.n.m.c.ConfigurationInstance        00223 SubModel: total_amount: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:38.894  INFO c.w.v.n.m.c.ConfigurationInstance        00223 SubModel: total_amount: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:38.894  INFO c.w.v.n.m.c.ConfigurationInstance        00223 SubModel: total_amount: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:38.895 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00223 SubModel: total_amount: Enable all params from configuration Exception occurred in EnableAllParametersTask[total_amount]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /total_amount/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:38.895  WARN c.w.n.u.w.async.TaskExecutionService     00223 SubModel: total_amount: Enable all params from configuration Error during task execution: Task[id=223, name=SubModel: total_amount: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /total_amount/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /total_amount/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:38.896  WARN c.w.n.u.w.async.TaskExecutionService     00223 SubModel: total_amount: Enable all params from configuration Performing retry for Task[id=223, name=SubModel: total_amount: Enable all params from configuration], retryLimit: 3, retryCount: 3
+2019-08-09 12:12:38.905  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00226 SubModel: product: Enable all params from configuration Starting EnableAllParametersTask[product]
+2019-08-09 12:12:38.905  INFO c.w.v.n.m.c.ConfigurationInstance        00226 SubModel: product: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:38.906  INFO c.w.v.n.m.c.ConfigurationInstance        00226 SubModel: product: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:38.906  INFO c.w.v.n.m.c.ConfigurationInstance        00226 SubModel: product: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:38.907  INFO c.w.v.n.m.c.ConfigurationInstance        00226 SubModel: product: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:38.908 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00226 SubModel: product: Enable all params from configuration Exception occurred in EnableAllParametersTask[product]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /product/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:38.908  WARN c.w.n.u.w.async.TaskExecutionService     00226 SubModel: product: Enable all params from configuration Error during task execution: Task[id=226, name=SubModel: product: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /product/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /product/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:38.908  WARN c.w.n.u.w.async.TaskExecutionService     00226 SubModel: product: Enable all params from configuration Performing retry for Task[id=226, name=SubModel: product: Enable all params from configuration], retryLimit: 3, retryCount: 3
+2019-08-09 12:12:39.114  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00247 SubModel: email: Enable all params from configuration Starting EnableAllParametersTask[email]
+2019-08-09 12:12:39.114  INFO c.w.v.n.m.c.ConfigurationInstance        00247 SubModel: email: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:39.115  INFO c.w.v.n.m.c.ConfigurationInstance        00247 SubModel: email: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:39.115  INFO c.w.v.n.m.c.ConfigurationInstance        00247 SubModel: email: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:39.115  INFO c.w.v.n.m.c.ConfigurationInstance        00247 SubModel: email: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:39.116 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00247 SubModel: email: Enable all params from configuration Exception occurred in EnableAllParametersTask[email]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /email/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:39.116  WARN c.w.n.u.w.async.TaskExecutionService     00247 SubModel: email: Enable all params from configuration Error during task execution: Task[id=247, name=SubModel: email: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /email/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /email/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:39.117  WARN c.w.n.u.w.async.TaskExecutionService     00247 SubModel: email: Enable all params from configuration Performing retry for Task[id=247, name=SubModel: email: Enable all params from configuration], retryLimit: 3, retryCount: 3
+2019-08-09 12:12:39.221  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00266 SubModel: invoice_date: Enable all params from configuration Starting EnableAllParametersTask[invoice_date]
+2019-08-09 12:12:39.222  INFO c.w.v.n.m.c.ConfigurationInstance        00266 SubModel: invoice_date: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:39.222  INFO c.w.v.n.m.c.ConfigurationInstance        00266 SubModel: invoice_date: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:39.223  INFO c.w.v.n.m.c.ConfigurationInstance        00266 SubModel: invoice_date: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:39.223  INFO c.w.v.n.m.c.ConfigurationInstance        00266 SubModel: invoice_date: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:39.224 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00266 SubModel: invoice_date: Enable all params from configuration Exception occurred in EnableAllParametersTask[invoice_date]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /invoice_date/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:39.224  WARN c.w.n.u.w.async.TaskExecutionService     00266 SubModel: invoice_date: Enable all params from configuration Error during task execution: Task[id=266, name=SubModel: invoice_date: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /invoice_date/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /invoice_date/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:39.224  WARN c.w.n.u.w.async.TaskExecutionService     00266 SubModel: invoice_date: Enable all params from configuration Performing retry for Task[id=266, name=SubModel: invoice_date: Enable all params from configuration], retryLimit: 3, retryCount: 3
+2019-08-09 12:12:39.279  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00278 SubModel: supplier_name: Enable all params from configuration Starting EnableAllParametersTask[supplier_name]
+2019-08-09 12:12:39.279  INFO c.w.v.n.m.c.ConfigurationInstance        00278 SubModel: supplier_name: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:39.280  INFO c.w.v.n.m.c.ConfigurationInstance        00278 SubModel: supplier_name: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:39.280  INFO c.w.v.n.m.c.ConfigurationInstance        00278 SubModel: supplier_name: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:39.281  INFO c.w.v.n.m.c.ConfigurationInstance        00278 SubModel: supplier_name: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:39.281 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00278 SubModel: supplier_name: Enable all params from configuration Exception occurred in EnableAllParametersTask[supplier_name]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /supplier_name/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:39.282  WARN c.w.n.u.w.async.TaskExecutionService     00278 SubModel: supplier_name: Enable all params from configuration Error during task execution: Task[id=278, name=SubModel: supplier_name: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /supplier_name/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /supplier_name/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:39.282  WARN c.w.n.u.w.async.TaskExecutionService     00278 SubModel: supplier_name: Enable all params from configuration Performing retry for Task[id=278, name=SubModel: supplier_name: Enable all params from configuration], retryLimit: 3, retryCount: 3
+2019-08-09 12:12:39.458  INFO c.w.v.w.t.hpo.EnableAllParametersTask    00281 SubModel: price: Enable all params from configuration Starting EnableAllParametersTask[price]
+2019-08-09 12:12:39.459  INFO c.w.v.n.m.c.ConfigurationInstance        00281 SubModel: price: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:39.459  INFO c.w.v.n.m.c.ConfigurationInstance        00281 SubModel: price: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:39.459  INFO c.w.v.n.m.c.ConfigurationInstance        00281 SubModel: price: Enable all params from configuration Named entity basePostProcessors was overridden in configuration class com.workfusion.vds.nlp.hypermodel.ie.generic.config.GenericIeHypermodelConfiguration.
+2019-08-09 12:12:39.460  INFO c.w.v.n.m.c.ConfigurationInstance        00281 SubModel: price: Enable all params from configuration Named entity hpoConfiguration was overridden in configuration class com.workfusion.vds.nlp.hypermodel.GenericHpoConfiguration.
+2019-08-09 12:12:39.461 ERROR c.w.v.w.t.hpo.EnableAllParametersTask    00281 SubModel: price: Enable all params from configuration Exception occurred in EnableAllParametersTask[price]
+
+com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /price/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:39.461  WARN c.w.n.u.w.async.TaskExecutionService     00281 SubModel: price: Enable all params from configuration Error during task execution: Task[id=281, name=SubModel: price: Enable all params from configuration]
+
+com.workfusion.vds.sdk.api.exception.SdkException: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /price/parameters.json
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:93)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: com.workfusion.vds.sdk.api.nlp.configuration.IllegalConfigurationException: Cannot load fixed configuration for model from /price/parameters.json
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:180)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.collectComponentsFromImportConfigs(ConfigurationInstance.java:140)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.buildConfiguration(ConfigurationInstance.java:97)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationBuilder.buildConfiguration(ConfigurationBuilder.java:73)
+	at com.workfusion.nlp.uima.workflow.model.Hypermodel.getConfigurationsProvider(Hypermodel.java:102)
+	at com.workfusion.nlp.uima.workflow.task.BaseTask.getConfigurationProvider(BaseTask.java:29)
+	at com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask.execute(EnableAllParametersTask.java:63)
+	... 10 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.io.Reader.<init>(Reader.java:167)
+	at java.base/java.io.InputStreamReader.<init>(InputStreamReader.java:97)
+	at com.cedarsoftware.util.io.JsonReader.<init>(JsonReader.java:556)
+	at com.workfusion.nlp.uima.util.JsonSerializationUtil.readObject(JsonSerializationUtil.java:74)
+	at com.workfusion.vds.nlp.model.configuration.ConfigurationInstance.loadFixedConfiguration(ConfigurationInstance.java:177)
+	... 16 common frames omitted
+
+2019-08-09 12:12:39.461  WARN c.w.n.u.w.async.TaskExecutionService     00281 SubModel: price: Enable all params from configuration Performing retry for Task[id=281, name=SubModel: price: Enable all params from configuration], retryLimit: 3, retryCount: 3

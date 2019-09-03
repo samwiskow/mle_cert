@@ -1,0 +1,1 @@
+[{"name":"invoice_date","extracted":"invoice_date","gold":"O","extractedValue":"June 2015","foldName":"fold2","scores":{"invoice_date":0.6112924516201019}},{"name":"invoice_date","extracted":"O","gold":"invoice_date","goldValue":"23* June 2015","foldName":"fold2","scores":{"O":-1.0}}]

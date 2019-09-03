@@ -1,0 +1,369 @@
+2019-08-08 13:52:28.584  INFO c.w.vds.hypermodel.util.HypermodelUtils  00000 - Hypermodel customization file C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\config\hypermodel.yml was not found
+2019-08-08 13:52:31.095  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Started process 4
+2019-08-08 13:52:31.104  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info ---> Start: Print model info
+2019-08-08 13:52:31.106  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info Task-specific process variables: {workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"supplier_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"mot_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"quantity","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product_price","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"wire_account_number","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"bank_account_number","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-08 13:52:31.119  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info Task variables: {outputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, _taskClass=com.workfusion.nlp.uima.workflow.task.info.PrintModelInfoTask}
+2019-08-08 13:52:31.193  INFO c.w.n.uima.workflow.logging.TaskLogger   00019 Print model info <--- Finish: Print model info (94 ms)
+2019-08-08 13:52:31.196  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs ---> Start: Remove empty docs
+2019-08-08 13:52:31.197  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs Task-specific process variables: {}
+2019-08-08 13:52:31.199  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs Task variables: {documentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, _taskClass=com.workfusion.nlp.uima.workflow.task.util.RemoveEmptyDocsTask}
+2019-08-08 13:52:32.326  INFO c.w.n.uima.workflow.logging.TaskLogger   00023 Remove empty docs <--- Finish: Remove empty docs (1133 ms)
+2019-08-08 13:52:32.329  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir ---> Start: Copy training set to raw dir
+2019-08-08 13:52:32.329  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir Task-specific process variables: {}
+2019-08-08 13:52:32.330  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir Task variables: {paramCommands=[{"operation":"COPY","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set-raw/"}], _taskClass=com.workfusion.nlp.uima.workflow.task.util.FileUtilTask}
+2019-08-08 13:52:32.615  INFO c.w.n.uima.workflow.logging.TaskLogger   00026 Copy training set to raw dir <--- Finish: Copy training set to raw dir (290 ms)
+2019-08-08 13:52:32.618  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set ---> Start: Preprocess training set
+2019-08-08 13:52:32.618  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set Task-specific process variables: {}
+2019-08-08 13:52:32.620  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set Task variables: {documentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set-raw/, preprocessorConfigurations=[{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.SpaceRemovingPreprocessor","params":{},"applicableTypes":[]},{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.MetaManualTagRemovingPreprocessor","params":{},"applicableTypes":[]}], _taskClass=com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask, processedDocumentsDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/}
+2019-08-08 13:52:32.974  INFO c.w.n.uima.workflow.logging.TaskLogger   00029 Preprocess training set <--- Finish: Preprocess training set (357 ms)
+2019-08-08 13:52:32.977  INFO c.w.n.uima.workflow.logging.TaskLogger   00032 Create per-tag training sets ---> Start: Create per-tag training sets
+2019-08-08 13:52:32.977  INFO c.w.n.uima.workflow.logging.TaskLogger   00032 Create per-tag training sets Task-specific process variables: {}
+2019-08-08 13:52:32.980  INFO c.w.n.uima.workflow.logging.TaskLogger   00032 Create per-tag training sets Task variables: {subModels=["bank_account_number","email","invoice_date","invoice_name","mot_name","product","product_price","quantity","supplier_name","total_amount","wire_account_number"], outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/training-set-bytag/, trainingSetDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, _taskClass=com.workfusion.nlp.uima.workflow.task.tag.CreatePerTagTrainingSetsTask, minDocs=10}
+2019-08-08 13:52:33.318  INFO w.n.u.w.t.t.CreatePerTagTrainingSetsTask 00032 Create per-tag training sets Not enough filtered documents for bank_account_number. Documents: 5, required: 10.
+2019-08-08 13:52:33.330  INFO w.n.u.w.t.t.CreatePerTagTrainingSetsTask 00032 Create per-tag training sets Not enough filtered documents for wire_account_number. Documents: 1, required: 10.
+2019-08-08 13:52:33.340  INFO w.n.u.w.t.t.CreatePerTagTrainingSetsTask 00032 Create per-tag training sets Not enough filtered documents for product_price. Documents: 1, required: 10.
+2019-08-08 13:52:33.344  INFO w.n.u.w.t.t.CreatePerTagTrainingSetsTask 00032 Create per-tag training sets Not enough filtered documents for mot_name. Documents: 1, required: 10.
+2019-08-08 13:52:33.391  INFO c.w.n.uima.workflow.logging.TaskLogger   00032 Create per-tag training sets <--- Finish: Create per-tag training sets (417 ms)
+2019-08-08 13:52:33.392  INFO c.w.n.uima.workflow.logging.TaskLogger   00035 Copy Reference Data to Output ---> Start: Copy Reference Data to Output
+2019-08-08 13:52:33.392  INFO c.w.n.uima.workflow.logging.TaskLogger   00035 Copy Reference Data to Output Task-specific process variables: {}
+2019-08-08 13:52:33.393  INFO c.w.n.uima.workflow.logging.TaskLogger   00035 Copy Reference Data to Output Task variables: {paramCommands=[{"operation":"COPY_OPTIONAL","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/ref-data/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/ref-data/"},{"operation":"COPY_OPTIONAL","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/dictionaries/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/dictionaries/"},{"operation":"COPY_OPTIONAL","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/corrections/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/corrections/"},{"operation":"COPY_OPTIONAL","parameters":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/resources/ -\u003e C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/"}], _taskClass=com.workfusion.nlp.uima.workflow.task.util.FileUtilTask}
+2019-08-08 13:52:33.409  INFO c.w.n.uima.workflow.logging.TaskLogger   00035 Copy Reference Data to Output <--- Finish: Copy Reference Data to Output (18 ms)
+2019-08-08 13:52:33.410  INFO c.w.n.uima.workflow.logging.TaskLogger   00038 Copy corrections files ---> Start: Copy corrections files
+2019-08-08 13:52:33.410  INFO c.w.n.uima.workflow.logging.TaskLogger   00038 Copy corrections files Task-specific process variables: {}
+2019-08-08 13:52:33.412  INFO c.w.n.uima.workflow.logging.TaskLogger   00038 Copy corrections files Task variables: {inputPath=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/corrections/, outputPath=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/model/resources/corrections/, _taskClass=com.workfusion.nlp.uima.workflow.task.extract.CopyCorrectionsTask}
+2019-08-08 13:52:33.433  INFO c.w.n.uima.workflow.logging.TaskLogger   00038 Copy corrections files <--- Finish: Copy corrections files (23 ms)
+2019-08-08 13:52:33.434  INFO c.w.n.uima.workflow.logging.TaskLogger   00041 Generate tokenizers ---> Start: Generate tokenizers
+2019-08-08 13:52:33.434  INFO c.w.n.uima.workflow.logging.TaskLogger   00041 Generate tokenizers Task-specific process variables: {}
+2019-08-08 13:52:33.436  INFO c.w.n.uima.workflow.logging.TaskLogger   00041 Generate tokenizers Task variables: {tokenizerOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/tokenizers/, trainingSetDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, goldLabelsJson=["bank_account_number","email","invoice_date","invoice_name","mot_name","product","product_price","quantity","supplier_name","total_amount","wire_account_number"], _taskClass=com.workfusion.nlp.uima.workflow.model.ie.tokenizer.GenerateTokenizersTask}
+2019-08-08 13:52:36.053  INFO c.w.n.uima.workflow.logging.TaskLogger   00041 Generate tokenizers <--- Finish: Generate tokenizers (2620 ms)
+2019-08-08 13:52:36.054  INFO c.w.n.uima.workflow.logging.TaskLogger   00044 Composite Extract ---> Start: Composite Extract
+2019-08-08 13:52:36.054  INFO c.w.n.uima.workflow.logging.TaskLogger   00044 Composite Extract Task-specific process variables: {}
+2019-08-08 13:52:36.056  INFO c.w.n.uima.workflow.logging.TaskLogger   00044 Composite Extract Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, postProcessors={"@type":"java.util.ArrayList","@items":[{"@type":"com.workfusion.vds.sdk.nlp.component.processing.CheckerModelPostProcessor"},{"@type":"com.workfusion.vds.sdk.nlp.component.processing.DataValueNormalizationProcessor"},{"@type":"com.workfusion.vds.sdk.nlp.component.processing.grouping.RowBasedGroupingProcessor","groupCodes":{"@type":"java.util.Collections$EmptyList"}}]}, egid'=training, subModelsJson=["bank_account_number","email","invoice_date","invoice_name","mot_name","product","product_price","quantity","supplier_name","total_amount","wire_account_number"], compositeAnnotatorClass={"@type":"class","value":"com.workfusion.nlp.uima.workflow.task.extract.IeCompositeAnnotatorDecorator"}, fields=[{"code":"supplier_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"mot_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"quantity","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product_price","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"wire_account_number","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"bank_account_number","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}}], outputFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/model/, modelDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/model/, documentParser={"@type":"com.workfusion.nlp.uima.docparser.DocumentParserImpl","preprocessors":{"@type":"java.util.ArrayList"},"goldAnnotator":{"@type":"com.workfusion.nlp.uima.docparser.DocumentParserConfiguration$1","this$0":null},"documentReader":{"@type":"com.workfusion.nlp.uima.docparser.IeDocumentReader","sourceView":null},"tagAnnotationParsing":true,"filterClasses":{"@type":"java.util.ArrayList","@items":[{"@type":"class","value":"com.workfusion.nlp.uima.annotator.ie.IeWhitespaceFilter"}]},"goldTags":{"@type":"java.util.HashSet"}}, preprocessorConfigurations=[{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.SpaceRemovingPreprocessor","params":{},"applicableTypes":[]},{"preProcessorClassName":"com.workfusion.nlp.uima.preprocessor.MetaManualTagRemovingPreprocessor","params":{},"applicableTypes":[]}], _taskClass=com.workfusion.nlp.uima.workflow.task.extract.IeCompositeExtractionPipelineTask}
+2019-08-08 13:52:39.122  INFO c.w.n.uima.workflow.logging.TaskLogger   00044 Composite Extract <--- Finish: Composite Extract (3069 ms)
+2019-08-08 13:52:39.124  INFO c.w.n.uima.workflow.logging.TaskLogger   00047 Combine avg-results files ---> Start: Combine avg-results files
+2019-08-08 13:52:39.124  INFO c.w.n.uima.workflow.logging.TaskLogger   00047 Combine avg-results files Task-specific process variables: {}
+2019-08-08 13:52:39.125  INFO c.w.n.uima.workflow.logging.TaskLogger   00047 Combine avg-results files Task variables: {modelsMap=["bank_account_number","email","invoice_date","invoice_name","mot_name","product","product_price","quantity","supplier_name","total_amount","wire_account_number"], resultDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, _taskClass=com.workfusion.nlp.uima.workflow.task.util.CombineAverageResults}
+2019-08-08 13:52:39.171  INFO c.w.n.uima.workflow.logging.TaskLogger   00047 Combine avg-results files <--- Finish: Combine avg-results files (50 ms)
+2019-08-08 13:52:39.173  INFO c.w.n.uima.workflow.logging.TaskLogger   00050 Calculate custom statistics and Post-Process ---> Start: Calculate custom statistics and Post-Process
+2019-08-08 13:52:39.173  INFO c.w.n.uima.workflow.logging.TaskLogger   00050 Calculate custom statistics and Post-Process Task-specific process variables: {}
+2019-08-08 13:52:39.174  INFO c.w.n.uima.workflow.logging.TaskLogger   00050 Calculate custom statistics and Post-Process Task variables: {outputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, fileds={"@type":"java.util.ArrayList","@items":[{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"supplier_name","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"invoice_name","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"invoice_date","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"email","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"mot_name","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"product","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"quantity","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"product_price","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"total_amount","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"wire_account_number","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}},{"@type":"com.workfusion.vds.sdk.api.nlp.configuration.FieldInfo","code":"bank_account_number","type":{"name":"INFO_EXTRACTION"},"required":true,"multiValue":false,"children":{"@type":"java.util.ArrayList"},"properties":{"@type":"com.google.gson.internal.LinkedTreeMap"}}]}, calculateRawStatistics={"@type":"boolean","value":true}, postProcessorsDataConfiguration={"@type":"java.util.ArrayList","@items":[{"@type":"com.workfusion.vds.sdk.nlp.component.processing.CheckerModelPostProcessor"},{"@type":"com.workfusion.vds.sdk.nlp.component.processing.DataValueNormalizationProcessor"},{"@type":"com.workfusion.vds.sdk.nlp.component.processing.grouping.RowBasedGroupingProcessor","groupCodes":{"@type":"java.util.Collections$EmptyList"}}]}, statisticsCalculators={"@type":"java.util.ArrayList","@items":[{"@type":"com.workfusion.vds.sdk.nlp.component.statistics.IeStatisticsCalculator","fieldResultMappers":{"@type":"java.util.ArrayList"},"groupResultMappers":{"@type":"java.util.ArrayList"},"evaluationTypes":{"@type":"java.util.RegularEnumSet","@items":[{"@type":"com.workfusion.vds.sdk.nlp.component.statistics.StatisticsEvaluationType","name":"VALUE_BASED"}]},"fieldNames":null,"printers":{"@type":"java.util.ArrayList","@items":[{"@type":"com.workfusion.vds.sdk.nlp.component.statistics.printer.IeGoldVsExtractedCSVPrinter","filePerField":false},{"@type":"com.workfusion.vds.sdk.nlp.component.statistics.printer.IeGoldVsExtractedPerGroupCSVPrinter","filePerField":false},{"@type":"com.workfusion.vds.sdk.nlp.component.statistics.printer.IePerFieldCSVPrinter"},{"@type":"com.workfusion.vds.sdk.nlp.component.statistics.printer.IePerGroupFieldCSVPrinter"}]},"output":null}]}, evalMetaDataDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/eval/meta-data/, resourcesDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/resources/, inputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, documentParser={"@type":"com.workfusion.nlp.uima.docparser.DocumentParserImpl","preprocessors":{"@type":"java.util.ArrayList"},"goldAnnotator":{"@type":"com.workfusion.nlp.uima.docparser.DocumentParserConfiguration$1","this$0":null},"documentReader":{"@type":"com.workfusion.nlp.uima.docparser.IeDocumentReader","sourceView":null},"tagAnnotationParsing":true,"filterClasses":{"@type":"java.util.ArrayList","@items":[{"@type":"class","value":"com.workfusion.nlp.uima.annotator.ie.IeWhitespaceFilter"}]},"goldTags":{"@type":"java.util.HashSet"}}, _taskClass=com.workfusion.vds.nlp.statistics.CalculateIeStatisticsTask}
+2019-08-08 13:52:45.743  INFO c.w.n.uima.workflow.logging.TaskLogger   00050 Calculate custom statistics and Post-Process <--- Finish: Calculate custom statistics and Post-Process (6570 ms)
+2019-08-08 13:52:45.745  INFO c.w.n.uima.workflow.logging.TaskLogger   00053 Meta Data Output Builder ---> Start: Meta Data Output Builder
+2019-08-08 13:52:45.745  INFO c.w.n.uima.workflow.logging.TaskLogger   00053 Meta Data Output Builder Task-specific process variables: {}
+2019-08-08 13:52:45.748  INFO c.w.n.uima.workflow.logging.TaskLogger   00053 Meta Data Output Builder Task variables: {pipelineDescriptor={"@type":"com.workfusion.nlp.uima.workflow.model.ie.pipeline.MetaDataCompositeBuilder$Descriptor","pipelineTask":"com.workfusion.nlp.uima.workflow.model.ie.pipeline.MetaDataCompositeBuilder","name":"Meta Data Output Builder","params":{"@type":"java.util.HashMap","testFilesDir":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/","paramMetaDataHandlers":null,"subModelsJson":"[\"bank_account_number\",\"email\",\"invoice_date\",\"invoice_name\",\"mot_name\",\"product\",\"product_price\",\"quantity\",\"supplier_name\",\"total_amount\",\"wire_account_number\"]","compositeResultAnnotators":null,"evalMetaDataDir":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/eval/meta-data/","documentParser":"{\"@type\":\"com.workfusion.nlp.uima.docparser.DocumentParserImpl\",\"preprocessors\":{\"@type\":\"java.util.ArrayList\"},\"goldAnnotator\":{\"@type\":\"com.workfusion.nlp.uima.docparser.DocumentParserConfiguration$1\",\"this$0\":null},\"documentReader\":{\"@type\":\"com.workfusion.nlp.uima.docparser.IeDocumentReader\",\"sourceView\":null},\"tagAnnotationParsing\":true,\"filterClasses\":{\"@type\":\"java.util.ArrayList\",\"@items\":[{\"@type\":\"class\",\"value\":\"com.workfusion.nlp.uima.annotator.ie.IeWhitespaceFilter\"}]},\"goldTags\":{\"@type\":\"java.util.HashSet\"}}"}}, _taskClass=com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask}
+2019-08-08 13:52:47.718  WARN c.w.n.u.w.async.TaskExecutionService     00053 Meta Data Output Builder Error during task execution: Task[id=53, name=Meta Data Output Builder]
+
+com.workfusion.vds.sdk.api.exception.SdkException: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:61)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:264)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initialize(PrimitiveAnalysisEngine_impl.java:169)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:331)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:448)
+	at org.apache.uima.fit.factory.AnalysisEngineFactory.createEngine(AnalysisEngineFactory.java:205)
+	at com.workfusion.nlp.uima.pipeline.SimplePipeline.runPipeline(SimplePipeline.java:71)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:51)
+	... 10 common frames omitted
+Caused by: org.apache.uima.resource.ResourceInitializationException: null
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:70)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:262)
+	... 35 common frames omitted
+Caused by: java.nio.file.NoSuchFileException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\work\eval\meta-data\_model-results
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:505)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:689)
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:68)
+	... 36 common frames omitted
+
+2019-08-08 13:52:47.720  WARN c.w.n.u.w.async.TaskExecutionService     00053 Meta Data Output Builder Performing retry for Task[id=53, name=Meta Data Output Builder], retryLimit: 3, retryCount: 2
+2019-08-08 13:52:58.620  WARN c.w.n.u.w.async.TaskExecutionService     00053 Meta Data Output Builder Error during task execution: Task[id=53, name=Meta Data Output Builder]
+
+com.workfusion.vds.sdk.api.exception.SdkException: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:61)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:264)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initialize(PrimitiveAnalysisEngine_impl.java:169)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:331)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:448)
+	at org.apache.uima.fit.factory.AnalysisEngineFactory.createEngine(AnalysisEngineFactory.java:205)
+	at com.workfusion.nlp.uima.pipeline.SimplePipeline.runPipeline(SimplePipeline.java:71)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:51)
+	... 10 common frames omitted
+Caused by: org.apache.uima.resource.ResourceInitializationException: null
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:70)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:262)
+	... 35 common frames omitted
+Caused by: java.nio.file.NoSuchFileException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\work\eval\meta-data\_model-results
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:505)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:689)
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:68)
+	... 36 common frames omitted
+
+2019-08-08 13:52:58.621  WARN c.w.n.u.w.async.TaskExecutionService     00053 Meta Data Output Builder Performing retry for Task[id=53, name=Meta Data Output Builder], retryLimit: 3, retryCount: 3
+2019-08-08 13:53:09.476  WARN c.w.n.u.w.async.TaskExecutionService     00053 Meta Data Output Builder Error during task execution: Task[id=53, name=Meta Data Output Builder]
+
+com.workfusion.vds.sdk.api.exception.SdkException: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:61)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:264)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initialize(PrimitiveAnalysisEngine_impl.java:169)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:331)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:448)
+	at org.apache.uima.fit.factory.AnalysisEngineFactory.createEngine(AnalysisEngineFactory.java:205)
+	at com.workfusion.nlp.uima.pipeline.SimplePipeline.runPipeline(SimplePipeline.java:71)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:51)
+	... 10 common frames omitted
+Caused by: org.apache.uima.resource.ResourceInitializationException: null
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:70)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:262)
+	... 35 common frames omitted
+Caused by: java.nio.file.NoSuchFileException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\work\eval\meta-data\_model-results
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:505)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:689)
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:68)
+	... 36 common frames omitted
+
+2019-08-08 13:53:09.476  WARN c.w.n.u.w.async.TaskExecutionService     00053 Meta Data Output Builder Performing retry for Task[id=53, name=Meta Data Output Builder], retryLimit: 3, retryCount: 4
+2019-08-08 13:53:09.477 ERROR c.w.n.uima.workflow.logging.TaskLogger   00053 Meta Data Output Builder  !!!! Error occurred during: Meta Data Output Builder execution
+
+com.workfusion.vds.sdk.api.exception.SdkException: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:61)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:264)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initialize(PrimitiveAnalysisEngine_impl.java:169)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:331)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:448)
+	at org.apache.uima.fit.factory.AnalysisEngineFactory.createEngine(AnalysisEngineFactory.java:205)
+	at com.workfusion.nlp.uima.pipeline.SimplePipeline.runPipeline(SimplePipeline.java:71)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:51)
+	... 10 common frames omitted
+Caused by: org.apache.uima.resource.ResourceInitializationException: null
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:70)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:262)
+	... 35 common frames omitted
+Caused by: java.nio.file.NoSuchFileException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\work\eval\meta-data\_model-results
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:505)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:689)
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:68)
+	... 36 common frames omitted
+
+2019-08-08 13:53:09.477  INFO c.w.n.uima.workflow.logging.TaskLogger   00053 Meta Data Output Builder Process variables: {workingFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/, experimentGroupId=training, executionProfile=PRODUCTION, trainingSetFolder=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/, experimentInputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/, executionMode=LOCAL, fields=[{"code":"supplier_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"invoice_date","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"email","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"mot_name","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"quantity","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"product_price","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"total_amount","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"wire_account_number","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}},{"code":"bank_account_number","type":"INFO_EXTRACTION","required":true,"multiValue":false,"children":[],"properties":{}}], experimentOutputDir=C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/output/, cluster.job.train.root.allInOneJob=false, hyperModelClass=mle.cert.assignment.model.AssignmentModel}
+2019-08-08 13:53:09.478  INFO c.w.n.uima.workflow.logging.TaskLogger   00053 Meta Data Output Builder Task variables: {pipelineDescriptor={"@type":"com.workfusion.nlp.uima.workflow.model.ie.pipeline.MetaDataCompositeBuilder$Descriptor","pipelineTask":"com.workfusion.nlp.uima.workflow.model.ie.pipeline.MetaDataCompositeBuilder","name":"Meta Data Output Builder","params":{"@type":"java.util.HashMap","testFilesDir":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/input/training-set/","paramMetaDataHandlers":null,"subModelsJson":"[\"bank_account_number\",\"email\",\"invoice_date\",\"invoice_name\",\"mot_name\",\"product\",\"product_price\",\"quantity\",\"supplier_name\",\"total_amount\",\"wire_account_number\"]","compositeResultAnnotators":null,"evalMetaDataDir":"C:/Users/wiskow.sj/workfusion-workspace/assignment/output/training/work/eval/meta-data/","documentParser":"{\"@type\":\"com.workfusion.nlp.uima.docparser.DocumentParserImpl\",\"preprocessors\":{\"@type\":\"java.util.ArrayList\"},\"goldAnnotator\":{\"@type\":\"com.workfusion.nlp.uima.docparser.DocumentParserConfiguration$1\",\"this$0\":null},\"documentReader\":{\"@type\":\"com.workfusion.nlp.uima.docparser.IeDocumentReader\",\"sourceView\":null},\"tagAnnotationParsing\":true,\"filterClasses\":{\"@type\":\"java.util.ArrayList\",\"@items\":[{\"@type\":\"class\",\"value\":\"com.workfusion.nlp.uima.annotator.ie.IeWhitespaceFilter\"}]},\"goldTags\":{\"@type\":\"java.util.HashSet\"}}"}}, _taskClass=com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask}
+2019-08-08 13:53:09.479 ERROR c.w.n.u.w.async.TaskExecutionService     00053 Meta Data Output Builder Retry limit exceeded for task Meta Data Output Builder
+
+com.workfusion.vds.sdk.api.exception.SdkException: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:61)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTaskWithMemoryControl(TaskExecutionService.java:324)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.execTask(TaskExecutionService.java:311)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$executeTask$3(TaskExecutionService.java:215)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:287)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:164)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.executeTask(TaskExecutionService.java:214)
+	at com.workfusion.nlp.uima.workflow.async.TaskExecutionService.lambda$processBpTask$2(TaskExecutionService.java:188)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: org.apache.uima.resource.ResourceInitializationException: Initialization of annotator class "com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator" failed.  (Descriptor: <unknown>)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:264)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initialize(PrimitiveAnalysisEngine_impl.java:169)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:407)
+	at org.apache.uima.analysis_engine.asb.impl.ASB_impl.setup(ASB_impl.java:256)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initASB(AggregateAnalysisEngine_impl.java:429)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initializeAggregateAnalysisEngine(AggregateAnalysisEngine_impl.java:373)
+	at org.apache.uima.analysis_engine.impl.AggregateAnalysisEngine_impl.initialize(AggregateAnalysisEngine_impl.java:186)
+	at org.apache.uima.impl.AnalysisEngineFactory_impl.produceResource(AnalysisEngineFactory_impl.java:94)
+	at org.apache.uima.impl.CompositeResourceFactory_impl.produceResource(CompositeResourceFactory_impl.java:62)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:279)
+	at org.apache.uima.UIMAFramework.produceResource(UIMAFramework.java:331)
+	at org.apache.uima.UIMAFramework.produceAnalysisEngine(UIMAFramework.java:448)
+	at org.apache.uima.fit.factory.AnalysisEngineFactory.createEngine(AnalysisEngineFactory.java:205)
+	at com.workfusion.nlp.uima.pipeline.SimplePipeline.runPipeline(SimplePipeline.java:71)
+	at com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask.execute(PipelineWrapperTask.java:51)
+	... 10 common frames omitted
+Caused by: org.apache.uima.resource.ResourceInitializationException: null
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:70)
+	at org.apache.uima.analysis_engine.impl.PrimitiveAnalysisEngine_impl.initializeAnalysisComponent(PrimitiveAnalysisEngine_impl.java:262)
+	... 35 common frames omitted
+Caused by: java.nio.file.NoSuchFileException: C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\work\eval\meta-data\_model-results
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.createDirectory(WindowsFileSystemProvider.java:505)
+	at java.base/java.nio.file.Files.createDirectory(Files.java:689)
+	at com.workfusion.nlp.uima.workflow.task.meta.TaggedXmlFileAnnotator.initialize(TaggedXmlFileAnnotator.java:68)
+	... 36 common frames omitted
+
+2019-08-08 13:53:09.482 ERROR c.w.n.u.w.async.TaskExecutionService     00053 Meta Data Output Builder Suspending ProcessInstance[4] due to Stop process execution due to retry limit exceeded for Task[id=53, name=Meta Data Output Builder]
+2019-08-08 13:53:10.161  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Exit because no processes instances in Activiti engine
+2019-08-08 13:53:10.163  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Start: aggregating performance statistics.
+2019-08-08 13:53:10.205  INFO c.w.n.u.w.executor.WorkflowExecutor      00000 - Finish: aggregating performance statistics.
+2019-08-08 13:53:10.211 ERROR o.s.boot.SpringApplication               00000 - Application startup failed
+
+java.lang.IllegalStateException: Failed to execute ApplicationRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:726)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:713)
+	at org.springframework.boot.SpringApplication.afterRefresh(SpringApplication.java:703)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:304)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107)
+	at com.workfusion.vds.nlp.hypermodel.runner.HyperModelRunner.runLocally(HyperModelRunner.java:54)
+	at com.workfusion.vds.nlp.hypermodel.runner.ModelRunner.run(ModelRunner.java:64)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.workfusion.vds.sdk.run.ModelRunner.run(ModelRunner.java:34)
+	at mle.cert.assignment.run.ModelTrainingRunner.main(ModelTrainingRunner.java:87)
+Caused by: java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at com.workfusion.vds.spring.boot.ModelMainRunner.run(ModelMainRunner.java:20)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:723)
+	... 13 common frames omitted
+Caused by: com.workfusion.nlp.uima.workflow.executor.FailedStepException: null
+	at com.workfusion.nlp.uima.workflow.executor.WorkflowExecutor.runWorkflow(WorkflowExecutor.java:122)
+	at com.workfusion.nlp.uima.workflow.run.WorkflowRunner.runLocally(WorkflowRunner.java:254)
+	at com.workfusion.vds.nlp.hypermodel.runner.HyperModelRunner.run(HyperModelRunner.java:68)
+	at com.workfusion.vds.nlp.hypermodel.runner.HyperModelRunner.main(HyperModelRunner.java:64)
+	... 19 common frames omitted
+

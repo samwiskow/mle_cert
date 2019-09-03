@@ -1,0 +1,1 @@
+[{"name":"total_amount","extracted":"total_amount","gold":"O","extractedValue":"Task","foldName":"fold4","scores":{"total_amount":0.5455904603004456}},{"name":"total_amount","extracted":"O","gold":"total_amount","goldValue":"421.05","foldName":"fold4","scores":{"O":-1.0}}]

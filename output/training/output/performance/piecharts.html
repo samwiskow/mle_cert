@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Pie Charts</title>
+	<style>
+		html, body {
+			height: 100%;
+		}
+		#piechartOverall {
+			width: 100%;
+			height: 100%;
+		}
+		#piechartMean {
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script type="text/javascript">
+		google.charts.load('current', {'packages':['corechart']});
+		google.charts.setOnLoadCallback(drawCharts);
+
+		function drawCharts() {
+			var data = [{"className":"com.workfusion.automl.search.register.RegisterComponentsTask","duration":899284,"callAmount":368},{"className":"com.workfusion.nlp.uima.workflow.model.classify.task.CalculateFieldResultsTask","duration":144201,"callAmount":1840},{"className":"com.workfusion.nlp.uima.workflow.task.DocumentPreProcessingTask","duration":28682,"callAmount":52},{"className":"com.workfusion.nlp.uima.workflow.task.pipeline.PipelineWrapperTask","duration":19855064,"callAmount":2668},{"className":"com.workfusion.nlp.uima.workflow.task.info.PrintMetaInfoTask","duration":7242,"callAmount":368},{"className":"com.workfusion.vds.workflow.task.hpo.EnableAllParametersTask","duration":128399,"callAmount":371},{"className":"com.workfusion.nlp.uima.workflow.task.accuracy.TrainScoreAccuracyModelTask","duration":339835,"callAmount":368},{"className":"com.workfusion.nlp.uima.workflow.task.tag.CheckTrainingSetTask","duration":45870,"callAmount":392},{"className":"com.workfusion.automl.search.tokenizer.SelectBestTokenizerTask","duration":180946,"callAmount":368},{"className":"com.workfusion.nlp.uima.workflow.task.util.ConvertTaggedDocumentsToDocumentResultsTask","duration":66980,"callAmount":46},{"className":"com.workfusion.nlp.uima.workflow.task.experiment.SaveBestExperimentTask","duration":539,"callAmount":46},{"className":"com.workfusion.nlp.uima.workflow.task.extract.CopyOutputResourcesTask","duration":24573,"callAmount":368},{"className":"com.workfusion.nlp.uima.workflow.task.util.FileUtilTask","duration":552362,"callAmount":1623},{"className":"com.workfusion.nlp.uima.workflow.task.util.DefineLocalVariables","duration":54972,"callAmount":1150},{"className":"com.workfusion.nlp.uima.workflow.task.util.RemoveEmptyDocsTask","duration":35062,"callAmount":53},{"className":"com.workfusion.nlp.uima.workflow.task.train.TrainTask","duration":5421513,"callAmount":2208},{"className":"com.workfusion.nlp.uima.workflow.task.experiment.SaveExperimentParamsTask","duration":84247,"callAmount":370},{"className":"com.workfusion.nlp.uima.workflow.task.util.SaveParameterToFileTask","duration":648,"callAmount":46},{"className":"com.workfusion.nlp.uima.workflow.model.ie.tokenizer.GenerateTokenizersTask","duration":111032,"callAmount":52},{"className":"com.workfusion.nlp.uima.workflow.task.results.CalculateCrossValidationStatisticsTask","duration":60458,"callAmount":368},{"className":"com.workfusion.nlp.uima.workflow.builder.common.AggregateAndConvertFeaturesTask","duration":5632190,"callAmount":2208},{"className":"com.workfusion.nlp.uima.workflow.task.experiment.SetupFoldsTask","duration":8080,"callAmount":368},{"className":"com.workfusion.vds.nlp.statistics.CalculateIeStatisticsTask","duration":293918,"callAmount":49},{"className":"com.workfusion.nlp.uima.workflow.task.cv.CrossValidationSplitTask","duration":307691,"callAmount":784},{"className":"com.workfusion.nlp.uima.workflow.model.ie.pipeline.WriteIeFeaturesPipelineWrapperTask","duration":16111102,"callAmount":368},{"className":"com.workfusion.automl.search.heuristic.ApplyHeuristicFESearchTask","duration":853204,"callAmount":368},{"className":"com.workfusion.nlp.uima.workflow.task.util.ArchiveDirectoryTask","duration":58686,"callAmount":138},{"className":"com.workfusion.nlp.uima.workflow.task.util.CombineAverageResults","duration":696,"callAmount":49},{"className":"com.workfusion.nlp.uima.workflow.task.tableau.SaveStatisticsTask","duration":26490,"callAmount":460},{"className":"com.workfusion.nlp.uima.workflow.task.tag.CreatePerTagTrainingSetsTask","duration":24664,"callAmount":52},{"className":"com.workfusion.nlp.uima.workflow.task.cv.CvFileRemapTask","duration":93519,"callAmount":368},{"className":"com.workfusion.nlp.uima.workflow.task.extract.CopyCorrectionsTask","duration":697,"callAmount":52},{"className":"com.workfusion.nlp.uima.workflow.task.extract.IeCompositeExtractionPipelineTask","duration":117998,"callAmount":49},{"className":"com.workfusion.nlp.uima.workflow.task.info.PrintModelInfoTask","duration":4085,"callAmount":53},{"className":"com.workfusion.nlp.uima.workflow.task.extract.IeCreateExtractionPipelineTask","duration":2367581,"callAmount":368},{"className":"com.workfusion.nlp.uima.workflow.model.classify.task.CombineIeDetailedResultsTask","duration":38687,"callAmount":46}];
+			var chartOverall = new google.visualization.PieChart(document.getElementById('piechartOverall'));
+			var chartOverallData = new google.visualization.DataTable();
+			chartOverallData.addColumn({ type: 'string', id: 'className' });
+			chartOverallData.addColumn({ type: 'number', id: 'Duration' });
+			chartOverallData.addColumn({type: 'string', role: 'tooltip'});
+			chartOverallData.addRows(jsonToRows1(data));
+			var optionsOverall = {
+				title: 'Overall execution time: 600:33:50',
+				legend: { position: 'none' }
+			};
+
+			chartOverall.draw(chartOverallData, optionsOverall);
+
+			var chartMean = new google.visualization.PieChart(document.getElementById('piechartMean'));
+			var chartMeanData = new google.visualization.DataTable();
+			chartMeanData.addColumn({ type: 'string', id: 'className' });
+			chartMeanData.addColumn({ type: 'number', id: 'Duration' });
+			chartMeanData.addColumn({type: 'string', role: 'tooltip'});
+			chartMeanData.addRows(jsonToRows2(data));
+			var optionsMean = {
+				title: 'Mean execution time per Class.',
+				legend: { position: 'none' }
+			};
+			chartMean.draw(chartMeanData, optionsMean);
+		}
+
+		function jsonToRows1(json) {
+			var rows = [];
+
+			json.forEach(function(item) {
+				rows.push([item.className, item.duration, item.className + ' \n'+ seconds2time(item.duration)]);
+			});
+
+			return rows;
+		}
+
+		function jsonToRows2(json) {
+			var rows = [];
+
+			json.forEach(function(item) {
+				rows.push([item.className, item.duration/item.callAmount, item.className + ' \n' + seconds2time(item.duration/item.callAmount)]);
+			});
+
+			return rows;
+		}
+
+		function seconds2time (millis) {
+			var s = '0' + Math.floor((millis / 1000) % 60);
+			var m = '0' + Math.floor((millis / (1000 * 60)) % 60);
+			var h =  Math.floor(millis / (1000 * 60 * 60)) ;
+			return [h, m.substr(-2), s.substr(-2)].join(':');
+		}
+	</script>
+</head>
+
+<body>
+<div id="piechartOverall"></div>
+<div id="piechartMean"></div>
+</body>
+</html>

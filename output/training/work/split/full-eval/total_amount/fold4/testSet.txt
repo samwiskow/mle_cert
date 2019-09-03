@@ -1,0 +1,17 @@
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00128620180117124239.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00146420180117152505.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice116.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice128.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice141.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice159.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice176.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.37c42c0f-a058-460c-a78d-98f7662df650.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.711a9524-10a1-4882-88a6-f5716011df67.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.87f5f765-c468-4976-b6f8-67cdf82943db.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.971b5ecd-5185-464a-b5a4-f8848915063c.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.a9226562-1e6d-4193-8294-ea096ff1daca.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html

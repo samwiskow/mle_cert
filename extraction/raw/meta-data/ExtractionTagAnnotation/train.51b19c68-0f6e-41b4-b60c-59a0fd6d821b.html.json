@@ -1,0 +1,1 @@
+[{"dataValue":"123456","score":0.7823003947776447,"name":"invoice_number","begin":548,"end":554},{"dataValue":"November 18.2015","score":0.7190446047168149,"name":"invoice_date","begin":604,"end":620},{"dataValue":"Due","score":0.5803895220270312,"name":"total_amount","begin":1035,"end":1038}]

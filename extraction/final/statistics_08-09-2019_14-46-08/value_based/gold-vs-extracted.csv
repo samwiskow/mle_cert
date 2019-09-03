@@ -1,0 +1,572 @@
+FILE_NAME,FIELD_NAME,GOLD,EXTRACTED,RESULT,REASON
+invoice0.html,product,Enormous Cotton Computer,Enormous Cotton Computer,TP,EXTRACT_MODEL
+invoice0.html,product,Lightweight Linen Lamp,Lightweight Linen Lamp,TP,EXTRACT_MODEL
+invoice0.html,product,Sleek Leather Chair,Sleek Leather Chair,TP,EXTRACT_MODEL
+invoice0.html,product,Awesome Cotton Plate,Awesome Cotton Plate,TP,EXTRACT_MODEL
+invoice0.html,product,Sleek Copper Computer,Sleek Copper Computer,TP,EXTRACT_MODEL
+invoice0.html,quantity,4.00,4.00,TP,EXTRACT_RULES
+invoice0.html,quantity,18.00,18.00,TP,EXTRACT_RULES
+invoice0.html,quantity,52.00,52.00,TP,EXTRACT_RULES
+invoice0.html,quantity,7.00,7.00,TP,EXTRACT_RULES
+invoice0.html,quantity,8.00,8.00,TP,EXTRACT_RULES
+invoice0.html,total_amount,,19296.35,FP,FAIL_MODEL
+invoice0.html,price,457.55,457.55,TP,EXTRACT_MODEL
+invoice0.html,price,373.49,373.49,TP,EXTRACT_MODEL
+invoice0.html,price,27.91,27.91,TP,EXTRACT_MODEL
+invoice0.html,price,400.41,400.41,TP,EXTRACT_MODEL
+invoice0.html,price,323.89,323.89,TP,EXTRACT_MODEL
+invoice0.html,supplier_name,"Kuvalis, Kuvalis and Kuvalis","Kuvalis, Kuvalis and Kuvalis",TP,EXTRACT_MODEL
+invoice0.html,invoice_number,7650961828,7650961828,TP,EXTRACT_MODEL
+invoice0.html,email,charlotte.gutmann@yahoo.com,charlotte.gutmann@yahoo.com,TP,EXTRACT_MODEL
+invoice0.html,invoice_date,12/27/1970,12/27/1970,TP,EXTRACT_RULES
+invoice106.html,product,Rustic Silk Computer,Rustic Silk Computer,TP,EXTRACT_MODEL
+invoice106.html,product,Enormous Concrete Watch,Enormous Concrete Watch,TP,EXTRACT_MODEL
+invoice106.html,product,Mediocre Rubber Hat,Mediocre Rubber Hat,TP,EXTRACT_MODEL
+invoice106.html,product,Ergonomic Granite Gloves,Ergonomic Granite Gloves,TP,EXTRACT_MODEL
+invoice106.html,product,Incredible Copper Pants,Incredible Copper Pants,TP,EXTRACT_MODEL
+invoice106.html,product,Incredible Marble Bag,Incredible Marble Bag,TP,EXTRACT_MODEL
+invoice106.html,product,Fantastic Leather Shirt,Fantastic Leather Shirt,TP,EXTRACT_MODEL
+invoice106.html,product,Ergonomic Iron Keyboard,Ergonomic Iron Keyboard,TP,EXTRACT_MODEL
+invoice106.html,quantity,24.00,24.00,TP,EXTRACT_RULES
+invoice106.html,quantity,51.00,51.00,TP,EXTRACT_RULES
+invoice106.html,quantity,53.00,53.00,TP,EXTRACT_RULES
+invoice106.html,quantity,37.00,37.00,TP,EXTRACT_RULES
+invoice106.html,quantity,5.00,5.00,TP,EXTRACT_RULES
+invoice106.html,quantity,54.00,54.00,TP,EXTRACT_RULES
+invoice106.html,quantity,44.00,44.00,TP,EXTRACT_RULES
+invoice106.html,quantity,42.00,42.00,TP,EXTRACT_RULES
+invoice106.html,total_amount,109415.50,109415.50,TP,EXTRACT_RULES
+invoice106.html,price,112.29,112.29,TP,EXTRACT_MODEL
+invoice106.html,price,153.65,153.65,TP,EXTRACT_MODEL
+invoice106.html,price,25.08,25.08,TP,EXTRACT_MODEL
+invoice106.html,price,480.17,480.17,TP,EXTRACT_MODEL
+invoice106.html,price,435.70,435.70,TP,EXTRACT_MODEL
+invoice106.html,price,269.70,269.70,TP,EXTRACT_MODEL
+invoice106.html,price,381.59,381.59,TP,EXTRACT_MODEL
+invoice106.html,price,348.03,348.03,TP,EXTRACT_MODEL
+invoice106.html,supplier_name,Weber and Sons,Weber and Sons,TP,EXTRACT_MODEL
+invoice106.html,invoice_number,3908661436,3908661436,TP,EXTRACT_MODEL
+invoice106.html,email,kylie.reynolds@gmail.com,kylie.reynolds@gmail.com,TP,EXTRACT_MODEL
+invoice106.html,invoice_date,04/13/2005,04/13/2005,TP,EXTRACT_RULES
+invoice108.html,product,Awesome Marble Hat,Awesome Marble Hat,TP,EXTRACT_MODEL
+invoice108.html,product,Practical Leather Bench,Practical Leather Bench,TP,EXTRACT_MODEL
+invoice108.html,product,Gorgeous Copper Bottle,Gorgeous Copper Bottle,TP,EXTRACT_MODEL
+invoice108.html,product,Synergistic Silk Bottle,Synergistic Silk Bottle,TP,EXTRACT_MODEL
+invoice108.html,product,Lightweight Granite Keyboard,Lightweight Granite Keyboard,TP,EXTRACT_MODEL
+invoice108.html,product,Gorgeous Plastic Shoes,Gorgeous Plastic Shoes,TP,EXTRACT_MODEL
+invoice108.html,quantity,18.00,18.00,TP,EXTRACT_RULES
+invoice108.html,quantity,47.00,47.00,TP,EXTRACT_RULES
+invoice108.html,quantity,2.00,2.00,TP,EXTRACT_RULES
+invoice108.html,quantity,3.00,3.00,TP,EXTRACT_RULES
+invoice108.html,quantity,5.00,5.00,TP,EXTRACT_RULES
+invoice108.html,quantity,7.00,7.00,TP,EXTRACT_RULES
+invoice108.html,total_amount,21833.92,21833.92,TP,EXTRACT_RULES
+invoice108.html,price,60.13,60.13,TP,EXTRACT_MODEL
+invoice108.html,price,179.47,179.47,TP,EXTRACT_MODEL
+invoice108.html,price,412.94,412.94,TP,EXTRACT_MODEL
+invoice108.html,price,365.14,365.14,TP,EXTRACT_MODEL
+invoice108.html,price,280.02,280.02,TP,EXTRACT_MODEL
+invoice108.html,price,174.39,174.39,TP,EXTRACT_MODEL
+invoice108.html,supplier_name,Murray Inc,Murray Inc,TP,EXTRACT_MODEL
+invoice108.html,invoice_number,6065016110,6065016110,TP,EXTRACT_MODEL
+invoice108.html,email,donald.anderson@gmail.com,donald.anderson@gmail.com,TP,EXTRACT_MODEL
+invoice108.html,invoice_date,02/17/2001,02/17/2001,TP,EXTRACT_RULES
+invoice113.html,product,Awesome Paper Shirt,Awesome Paper Shirt,TP,EXTRACT_MODEL
+invoice113.html,product,Heavy Duty Copper Table,Heavy Duty Copper Table,TP,EXTRACT_MODEL
+invoice113.html,product,Small Rubber Knife,Small Rubber Knife,TP,EXTRACT_MODEL
+invoice113.html,product,Mediocre Concrete Coat,Mediocre Concrete Coat,TP,EXTRACT_MODEL
+invoice113.html,product,Enormous Rubber Car,Enormous Rubber Car,TP,EXTRACT_MODEL
+invoice113.html,quantity,41.00,41.00,TP,EXTRACT_RULES
+invoice113.html,quantity,33.00,33.00,TP,EXTRACT_RULES
+invoice113.html,quantity,27.00,27.00,TP,EXTRACT_RULES
+invoice113.html,quantity,11.00,11.00,TP,EXTRACT_RULES
+invoice113.html,quantity,42.00,42.00,TP,EXTRACT_RULES
+invoice113.html,total_amount,28274.11,28274.11,TP,EXTRACT_RULES
+invoice113.html,price,214.17,214.17,TP,EXTRACT_MODEL
+invoice113.html,price,150.81,150.81,TP,EXTRACT_MODEL
+invoice113.html,price,186.74,186.74,TP,EXTRACT_MODEL
+invoice113.html,price,89.47,89.47,TP,EXTRACT_MODEL
+invoice113.html,price,164.36,164.36,TP,EXTRACT_MODEL
+invoice113.html,supplier_name,Rempel Group,Rempel Group,TP,EXTRACT_MODEL
+invoice113.html,invoice_number,0156315916,0156315916,TP,EXTRACT_MODEL
+invoice113.html,email,cory.beahan@yahoo.com,cory.beahan@yahoo.com,TP,EXTRACT_MODEL
+invoice113.html,invoice_date,01/06/1986,01/06/1986,TP,EXTRACT_RULES
+invoice116.html,product,Intelligent Marble Car,Intelligent Marble Car,TP,EXTRACT_MODEL
+invoice116.html,product,Aerodynamic Leather Computer,Aerodynamic Leather Computer,TP,EXTRACT_MODEL
+invoice116.html,quantity,25.00,25.00,TP,EXTRACT_RULES
+invoice116.html,quantity,23.00,23.00,TP,EXTRACT_RULES
+invoice116.html,total_amount,13023.97,13023.97,TP,EXTRACT_RULES
+invoice116.html,price,185.99,185.99,TP,EXTRACT_MODEL
+invoice116.html,price,269.72,269.72,TP,EXTRACT_MODEL
+invoice116.html,supplier_name,Rau Group,Rau Group,TP,EXTRACT_MODEL
+invoice116.html,invoice_number,0530052618,0530052618,TP,EXTRACT_MODEL
+invoice116.html,email,caitlyn.hansen@yahoo.com,caitlyn.hansen@yahoo.com,TP,EXTRACT_MODEL
+invoice116.html,invoice_date,09/26/2014,09/26/2014,TP,EXTRACT_RULES
+invoice118.html,product,Awesome Aluminum Clock,Awesome Aluminum Clock,TP,EXTRACT_MODEL
+invoice118.html,product,Mediocre Copper Wallet,Mediocre Copper Wallet,TP,EXTRACT_MODEL
+invoice118.html,product,Ergonomic Wool Wallet,Ergonomic Wool Wallet,TP,EXTRACT_MODEL
+invoice118.html,product,Awesome Silk Pants,Awesome Silk Pants,TP,EXTRACT_MODEL
+invoice118.html,product,Mediocre Silk Knife,Mediocre Silk Knife,TP,EXTRACT_MODEL
+invoice118.html,product,Synergistic Leather Table,Synergistic Leather Table,TP,EXTRACT_MODEL
+invoice118.html,product,Practical Steel Table,Practical Steel Table,TP,EXTRACT_MODEL
+invoice118.html,product,Aerodynamic Marble Lamp,Aerodynamic Marble Lamp,TP,EXTRACT_MODEL
+invoice118.html,quantity,26.00,26.00,TP,EXTRACT_RULES
+invoice118.html,quantity,52.00,52.00,TP,EXTRACT_RULES
+invoice118.html,quantity,34.00,34.00,TP,EXTRACT_RULES
+invoice118.html,quantity,24.00,24.00,TP,EXTRACT_RULES
+invoice118.html,quantity,38.00,38.00,TP,EXTRACT_RULES
+invoice118.html,quantity,46.00,46.00,TP,EXTRACT_RULES
+invoice118.html,quantity,29.00,29.00,TP,EXTRACT_RULES
+invoice118.html,quantity,13.00,13.00,TP,EXTRACT_RULES
+invoice118.html,total_amount,91194.11,91194.11,TP,EXTRACT_RULES
+invoice118.html,price,278.27,278.27,TP,EXTRACT_MODEL
+invoice118.html,price,494.91,494.91,TP,EXTRACT_MODEL
+invoice118.html,price,162.85,162.85,TP,EXTRACT_MODEL
+invoice118.html,price,249.18,249.18,TP,EXTRACT_MODEL
+invoice118.html,price,496.33,496.33,TP,EXTRACT_MODEL
+invoice118.html,price,91.65,91.65,TP,EXTRACT_MODEL
+invoice118.html,price,285.41,285.41,TP,EXTRACT_MODEL
+invoice118.html,price,194.86,194.86,TP,EXTRACT_MODEL
+invoice118.html,supplier_name,Krajcik and Sons,Krajcik and Sons,TP,EXTRACT_MODEL
+invoice118.html,invoice_number,7328351196,7328351196,TP,EXTRACT_MODEL
+invoice118.html,email,kenna.gleichner@yahoo.com,kenna.gleichner@yahoo.com,TP,EXTRACT_MODEL
+invoice118.html,invoice_date,07/13/1985,07/13/1985,TP,EXTRACT_RULES
+invoice122.html,product,Small Cotton Computer,Small Cotton Computer,TP,EXTRACT_MODEL
+invoice122.html,product,Intelligent Steel Keyboard,Intelligent Steel Keyboard,TP,EXTRACT_MODEL
+invoice122.html,product,Mediocre Concrete Hat,Mediocre Concrete Hat,TP,EXTRACT_MODEL
+invoice122.html,quantity,3.00,3.00,TP,EXTRACT_RULES
+invoice122.html,quantity,19.00,19.00,TP,EXTRACT_RULES
+invoice122.html,quantity,1.00,1.00,TP,EXTRACT_RULES
+invoice122.html,total_amount,12343.01,12343.01,TP,EXTRACT_RULES
+invoice122.html,price,422.76,422.76,TP,EXTRACT_MODEL
+invoice122.html,price,340.92,340.92,TP,EXTRACT_MODEL
+invoice122.html,price,465.28,465.28,TP,EXTRACT_MODEL
+invoice122.html,supplier_name,Hamill-Hamill,Hamill-Hamill,TP,EXTRACT_MODEL
+invoice122.html,invoice_number,4276804949,4276804949,TP,EXTRACT_MODEL
+invoice122.html,email,tobin.wisoky@yahoo.com,tobin.wisoky@yahoo.com,TP,EXTRACT_MODEL
+invoice122.html,invoice_date,08/08/1981,08/08/1981,TP,EXTRACT_RULES
+invoice124.html,product,Intelligent Wooden Plate,Intelligent Wooden Plate,TP,EXTRACT_MODEL
+invoice124.html,product,Heavy Duty Linen Car,Heavy Duty Linen Car,TP,EXTRACT_MODEL
+invoice124.html,product,Rustic Paper Gloves,Rustic Paper Gloves,TP,EXTRACT_MODEL
+invoice124.html,quantity,42.00,42.00,TP,EXTRACT_RULES
+invoice124.html,quantity,29.00,29.00,TP,EXTRACT_RULES
+invoice124.html,quantity,51.00,51.00,TP,EXTRACT_RULES
+invoice124.html,total_amount,29816.12,29816.12,TP,EXTRACT_RULES
+invoice124.html,price,203.50,203.50,TP,EXTRACT_MODEL
+invoice124.html,price,19.87,19.87,TP,EXTRACT_MODEL
+invoice124.html,price,426.95,426.95,TP,EXTRACT_MODEL
+invoice124.html,supplier_name,Kerluke-Kerluke,Kerluke-Kerluke,TP,EXTRACT_MODEL
+invoice124.html,invoice_number,9082247308,9082247308,TP,EXTRACT_MODEL
+invoice124.html,email,dorthy.gerhold@gmail.com,dorthy.gerhold@gmail.com,TP,EXTRACT_MODEL
+invoice124.html,invoice_date,08/28/2009,08/28/2009,TP,EXTRACT_RULES
+invoice126.html,product,Aerodynamic Leather Shirt,Aerodynamic Leather Shirt,TP,EXTRACT_MODEL
+invoice126.html,product,Heavy Duty Plastic Car,Heavy Duty Plastic Car,TP,EXTRACT_MODEL
+invoice126.html,product,Ergonomic Bronze Shoes,Ergonomic Bronze Shoes,TP,EXTRACT_MODEL
+invoice126.html,product,Intelligent Rubber Chair,Intelligent Rubber Chair,TP,EXTRACT_MODEL
+invoice126.html,product,Mediocre Wool Clock,Mediocre Wool Clock,TP,EXTRACT_MODEL
+invoice126.html,quantity,32.00,32.00,TP,EXTRACT_RULES
+invoice126.html,quantity,22.00,22.00,TP,EXTRACT_RULES
+invoice126.html,quantity,40.00,40.00,TP,EXTRACT_RULES
+invoice126.html,quantity,27.00,27.00,TP,EXTRACT_RULES
+invoice126.html,quantity,21.00,21.00,TP,EXTRACT_RULES
+invoice126.html,total_amount,33647.53,33647.53,TP,EXTRACT_RULES
+invoice126.html,price,190.46,190.46,TP,EXTRACT_MODEL
+invoice126.html,price,285.69,285.69,TP,EXTRACT_MODEL
+invoice126.html,price,18.76,18.76,TP,EXTRACT_MODEL
+invoice126.html,price,267.42,267.42,TP,EXTRACT_MODEL
+invoice126.html,price,133.95,133.95,TP,EXTRACT_MODEL
+invoice126.html,supplier_name,Smith and Sons,Smith and Sons,TP,EXTRACT_MODEL
+invoice126.html,invoice_number,6277876898,6277876898,TP,EXTRACT_MODEL
+invoice126.html,email,nona.von@yahoo.com,nona.von@yahoo.com,TP,EXTRACT_MODEL
+invoice126.html,invoice_date,12/01/1970,12/01/1970,TP,EXTRACT_RULES
+invoice128.html,product,Ergonomic Rubber Lamp,Ergonomic Rubber Lamp,TP,EXTRACT_MODEL
+invoice128.html,product,Incredible Marble Hat,Incredible Marble Hat,TP,EXTRACT_MODEL
+invoice128.html,product,Synergistic Bronze Gloves,Synergistic Bronze Gloves,TP,EXTRACT_MODEL
+invoice128.html,product,Lightweight Marble Gloves,Lightweight Marble Gloves,TP,EXTRACT_MODEL
+invoice128.html,product,Heavy Duty Aluminum Plate,Heavy Duty Aluminum Plate,TP,EXTRACT_MODEL
+invoice128.html,product,Gorgeous Rubber Keyboard,Gorgeous Rubber Keyboard,TP,EXTRACT_MODEL
+invoice128.html,product,Intelligent Linen Pants,Intelligent Linen Pants,TP,EXTRACT_MODEL
+invoice128.html,product,Ergonomic Bronze Knife,Ergonomic Bronze Knife,TP,EXTRACT_MODEL
+invoice128.html,quantity,32.00,32.00,TP,EXTRACT_RULES
+invoice128.html,quantity,29.00,29.00,TP,EXTRACT_RULES
+invoice128.html,quantity,49.00,49.00,TP,EXTRACT_RULES
+invoice128.html,quantity,12.00,12.00,TP,EXTRACT_RULES
+invoice128.html,quantity,24.00,24.00,TP,EXTRACT_RULES
+invoice128.html,quantity,8.00,8.00,TP,EXTRACT_RULES
+invoice128.html,quantity,48.00,48.00,TP,EXTRACT_RULES
+invoice128.html,quantity,11.00,11.00,TP,EXTRACT_RULES
+invoice128.html,total_amount,38816.89,38816.89,TP,EXTRACT_RULES
+invoice128.html,price,257.42,257.42,TP,EXTRACT_MODEL
+invoice128.html,price,50.93,50.93,TP,EXTRACT_MODEL
+invoice128.html,price,224.65,224.65,TP,EXTRACT_MODEL
+invoice128.html,price,138.06,138.06,TP,EXTRACT_MODEL
+invoice128.html,price,97.71,97.71,TP,EXTRACT_MODEL
+invoice128.html,price,300.97,300.97,TP,EXTRACT_MODEL
+invoice128.html,price,220.51,220.51,TP,EXTRACT_MODEL
+invoice128.html,price,139.74,139.74,TP,EXTRACT_MODEL
+invoice128.html,supplier_name,Collins Group,Collins Group,TP,EXTRACT_MODEL
+invoice128.html,invoice_number,8225345211,8225345211,TP,EXTRACT_MODEL
+invoice128.html,email,davin.turcotte@hotmail.com,davin.turcotte@hotmail.com,TP,EXTRACT_MODEL
+invoice128.html,invoice_date,11/10/1974,11/10/1974,TP,EXTRACT_RULES
+invoice129.html,product,Aerodynamic Concrete Keyboard,Aerodynamic Concrete Keyboard,TP,EXTRACT_MODEL
+invoice129.html,product,Incredible Paper Keyboard,Incredible Paper Keyboard,TP,EXTRACT_MODEL
+invoice129.html,product,Synergistic Silk Bench,Synergistic Silk Bench,TP,EXTRACT_MODEL
+invoice129.html,quantity,25.00,25.00,TP,EXTRACT_RULES
+invoice129.html,quantity,47.00,47.00,TP,EXTRACT_RULES
+invoice129.html,quantity,48.00,48.00,TP,EXTRACT_RULES
+invoice129.html,total_amount,36405.77,36405.77,TP,EXTRACT_RULES
+invoice129.html,price,201.16,201.16,TP,EXTRACT_MODEL
+invoice129.html,price,369.44,369.44,TP,EXTRACT_MODEL
+invoice129.html,price,126.02,126.02,TP,EXTRACT_MODEL
+invoice129.html,supplier_name,Gaylord-Gaylord,Gaylord-Gaylord,TP,EXTRACT_MODEL
+invoice129.html,invoice_number,8351143895,8351143895,TP,EXTRACT_MODEL
+invoice129.html,email,herminio.moen@gmail.com,herminio.moen@gmail.com,TP,EXTRACT_MODEL
+invoice129.html,invoice_date,07/19/2007,07/19/2007,TP,EXTRACT_RULES
+invoice135.html,product,Durable Steel Bag,Durable Steel Bag,TP,EXTRACT_MODEL
+invoice135.html,product,Small Silk Shoes,Small Silk Shoes,TP,EXTRACT_MODEL
+invoice135.html,product,Mediocre Plastic Coat,Mediocre Plastic Coat,TP,EXTRACT_MODEL
+invoice135.html,product,Awesome Granite Keyboard,Awesome Granite Keyboard,TP,EXTRACT_MODEL
+invoice135.html,product,Synergistic Bronze Computer,Synergistic Bronze Computer,TP,EXTRACT_MODEL
+invoice135.html,product,Lightweight Plastic Wallet,Lightweight Plastic Wallet,TP,EXTRACT_MODEL
+invoice135.html,product,Heavy Duty Wooden Shoes,Heavy Duty Wooden Shoes,TP,EXTRACT_MODEL
+invoice135.html,product,Aerodynamic Granite Bottle,Aerodynamic Granite Bottle,TP,EXTRACT_MODEL
+invoice135.html,quantity,14.00,14.00,TP,EXTRACT_RULES
+invoice135.html,quantity,4.00,4.00,TP,EXTRACT_RULES
+invoice135.html,quantity,38.00,38.00,TP,EXTRACT_RULES
+invoice135.html,quantity,13.00,13.00,TP,EXTRACT_RULES
+invoice135.html,quantity,8.00,8.00,TP,EXTRACT_RULES
+invoice135.html,quantity,33.00,33.00,TP,EXTRACT_RULES
+invoice135.html,quantity,8.00,8.00,TP,EXTRACT_RULES
+invoice135.html,quantity,29.00,29.00,TP,EXTRACT_RULES
+invoice135.html,total_amount,41753.40,41753.40,TP,EXTRACT_RULES
+invoice135.html,price,165.75,165.75,TP,EXTRACT_MODEL
+invoice135.html,price,426.72,426.72,TP,EXTRACT_MODEL
+invoice135.html,price,20.08,20.08,TP,EXTRACT_MODEL
+invoice135.html,price,61.39,61.39,TP,EXTRACT_MODEL
+invoice135.html,price,31.78,31.78,TP,EXTRACT_MODEL
+invoice135.html,price,174.82,174.82,TP,EXTRACT_MODEL
+invoice135.html,price,494.67,494.67,TP,EXTRACT_MODEL
+invoice135.html,price,474.06,474.06,TP,EXTRACT_MODEL
+invoice135.html,supplier_name,Daniel-Daniel,Daniel-Daniel,TP,EXTRACT_MODEL
+invoice135.html,invoice_number,0462457393,0462457393,TP,EXTRACT_MODEL
+invoice135.html,email,adriel.pouros@yahoo.com,adriel.pouros@yahoo.com,TP,EXTRACT_MODEL
+invoice135.html,invoice_date,11/05/1987,11/05/1987,TP,EXTRACT_RULES
+invoice138.html,product,Durable Copper Chair,Durable Copper Chair,TP,EXTRACT_MODEL
+invoice138.html,product,Sleek Wooden Lamp,Sleek Wooden Lamp,TP,EXTRACT_MODEL
+invoice138.html,product,Heavy Duty Wool Hat,Heavy Duty Wool Hat,TP,EXTRACT_MODEL
+invoice138.html,product,Intelligent Rubber Coat,Intelligent Rubber Coat,TP,EXTRACT_MODEL
+invoice138.html,product,Lightweight Leather Pants,Lightweight Leather Pants,TP,EXTRACT_MODEL
+invoice138.html,quantity,25.00,25.00,TP,EXTRACT_RULES
+invoice138.html,quantity,30.00,30.00,TP,EXTRACT_RULES
+invoice138.html,quantity,32.00,32.00,TP,EXTRACT_RULES
+invoice138.html,quantity,12.00,12.00,TP,EXTRACT_RULES
+invoice138.html,quantity,39.00,39.00,TP,EXTRACT_RULES
+invoice138.html,total_amount,51546.34,51546.34,TP,EXTRACT_RULES
+invoice138.html,price,489.14,489.14,TP,EXTRACT_MODEL
+invoice138.html,price,386.72,386.72,TP,EXTRACT_MODEL
+invoice138.html,price,118.14,118.14,TP,EXTRACT_MODEL
+invoice138.html,price,246.09,246.09,TP,EXTRACT_MODEL
+invoice138.html,price,333.82,333.82,TP,EXTRACT_MODEL
+invoice138.html,supplier_name,Upton-Upton,Upton-Upton,TP,EXTRACT_MODEL
+invoice138.html,invoice_number,0745199249,0745199249,TP,EXTRACT_MODEL
+invoice138.html,email,edwina.sauer@hotmail.com,edwina.sauer@hotmail.com,TP,EXTRACT_MODEL
+invoice138.html,invoice_date,09/27/2011,09/27/2011,TP,EXTRACT_RULES
+invoice14.html,product,Small Copper Gloves,Small Copper Gloves,TP,EXTRACT_MODEL
+invoice14.html,product,Synergistic Plastic Gloves,Synergistic Plastic Gloves,TP,EXTRACT_MODEL
+invoice14.html,quantity,15.00,15.00,TP,EXTRACT_RULES
+invoice14.html,quantity,1.00,1.00,TP,EXTRACT_RULES
+invoice14.html,total_amount,1127.23,1127.23,TP,EXTRACT_RULES
+invoice14.html,price,313.86,313.86,TP,EXTRACT_MODEL
+invoice14.html,price,41.70,41.70,TP,EXTRACT_MODEL
+invoice14.html,supplier_name,Bergnaum-Bergnaum,Bergnaum-Bergnaum,TP,EXTRACT_MODEL
+invoice14.html,invoice_number,6809466842,6809466842,TP,EXTRACT_MODEL
+invoice14.html,email,austen.kling@yahoo.com,austen.kling@yahoo.com,TP,EXTRACT_MODEL
+invoice14.html,invoice_date,01/04/1991,01/04/1991,TP,EXTRACT_RULES
+invoice141.html,product,Durable Rubber Bottle,Durable Rubber Bottle,TP,EXTRACT_MODEL
+invoice141.html,product,Small Iron Wallet,Small Iron Wallet,TP,EXTRACT_MODEL
+invoice141.html,quantity,20.00,20.00,TP,EXTRACT_RULES
+invoice141.html,quantity,31.00,31.00,TP,EXTRACT_RULES
+invoice141.html,total_amount,7795.67,7795.67,TP,EXTRACT_RULES
+invoice141.html,price,45.89,45.89,TP,EXTRACT_MODEL
+invoice141.html,price,253.69,253.69,TP,EXTRACT_MODEL
+invoice141.html,supplier_name,Wilderman-Wilderman,Wilderman-Wilderman,TP,EXTRACT_MODEL
+invoice141.html,invoice_number,1772306775,1772306775,TP,EXTRACT_MODEL
+invoice141.html,email,monica.romaguera@yahoo.com,monica.romaguera@yahoo.com,TP,EXTRACT_MODEL
+invoice141.html,invoice_date,10/05/2017,10/05/2017,TP,EXTRACT_RULES
+invoice144.html,product,Mediocre Steel Shirt,Mediocre Steel Shirt,TP,EXTRACT_MODEL
+invoice144.html,product,Aerodynamic Linen Table,Aerodynamic Linen Table,TP,EXTRACT_MODEL
+invoice144.html,product,Practical Leather Hat,Practical Leather Hat,TP,EXTRACT_MODEL
+invoice144.html,product,Durable Concrete Keyboard,Durable Concrete Keyboard,TP,EXTRACT_MODEL
+invoice144.html,quantity,32.00,32.00,TP,EXTRACT_RULES
+invoice144.html,quantity,44.00,44.00,TP,EXTRACT_RULES
+invoice144.html,quantity,26.00,26.00,TP,EXTRACT_RULES
+invoice144.html,quantity,10.00,10.00,TP,EXTRACT_RULES
+invoice144.html,total_amount,28789.54,28789.54,TP,EXTRACT_RULES
+invoice144.html,price,460.33,460.33,TP,EXTRACT_MODEL
+invoice144.html,price,194.75,194.75,TP,EXTRACT_MODEL
+invoice144.html,price,110.81,110.81,TP,EXTRACT_MODEL
+invoice144.html,price,73.30,73.30,TP,EXTRACT_MODEL
+invoice144.html,supplier_name,"Davis, Davis and Davis","Davis, Davis and Davis",TP,EXTRACT_MODEL
+invoice144.html,invoice_number,4949499204,4949499204,TP,EXTRACT_MODEL
+invoice144.html,email,ephraim.leuschke@yahoo.com,ephraim.leuschke@yahoo.com,TP,EXTRACT_MODEL
+invoice144.html,invoice_date,02/18/1992,02/18/1992,TP,EXTRACT_RULES
+invoice149.html,product,Small Marble Coat,Small Marble Coat,TP,EXTRACT_MODEL
+invoice149.html,product,Mediocre Marble Clock,Mediocre Marble Clock,TP,EXTRACT_MODEL
+invoice149.html,product,Fantastic Linen Computer,Fantastic Linen Computer,TP,EXTRACT_MODEL
+invoice149.html,quantity,30.00,30.00,TP,EXTRACT_RULES
+invoice149.html,quantity,53.00,53.00,TP,EXTRACT_RULES
+invoice149.html,quantity,44.00,44.00,TP,EXTRACT_RULES
+invoice149.html,total_amount,7242.88,7242.88,TP,EXTRACT_RULES
+invoice149.html,price,12.86,12.86,TP,EXTRACT_MODEL
+invoice149.html,price,33.67,33.67,TP,EXTRACT_MODEL
+invoice149.html,price,78.65,78.65,TP,EXTRACT_MODEL
+invoice149.html,supplier_name,"Sauer, Sauer and Sauer","Sauer, Sauer and Sauer",TP,EXTRACT_MODEL
+invoice149.html,invoice_number,6340372376,6340372376,TP,EXTRACT_MODEL
+invoice149.html,email,elenora.schultz@gmail.com,elenora.schultz@gmail.com,TP,EXTRACT_MODEL
+invoice149.html,invoice_date,08/10/1983,08/10/1983,TP,EXTRACT_RULES
+invoice151.html,product,Sleek Plastic Computer,Sleek Plastic Computer,TP,EXTRACT_MODEL
+invoice151.html,product,Aerodynamic Rubber Clock,Aerodynamic Rubber Clock,TP,EXTRACT_MODEL
+invoice151.html,product,Lightweight Paper Keyboard,Lightweight Paper Keyboard,TP,EXTRACT_MODEL
+invoice151.html,product,Practical Bronze Bench,Practical Bronze Bench,TP,EXTRACT_MODEL
+invoice151.html,product,Small Aluminum Pants,Small Aluminum Pants,TP,EXTRACT_MODEL
+invoice151.html,product,Gorgeous Concrete Shirt,Gorgeous Concrete Shirt,TP,EXTRACT_MODEL
+invoice151.html,quantity,15.00,15.00,TP,EXTRACT_RULES
+invoice151.html,quantity,41.00,41.00,TP,EXTRACT_RULES
+invoice151.html,quantity,35.00,35.00,TP,EXTRACT_RULES
+invoice151.html,quantity,2.00,2.00,TP,EXTRACT_RULES
+invoice151.html,quantity,42.00,42.00,TP,EXTRACT_RULES
+invoice151.html,quantity,11.00,11.00,TP,EXTRACT_RULES
+invoice151.html,total_amount,50521.94,50521.94,TP,EXTRACT_RULES
+invoice151.html,price,457.98,457.98,TP,EXTRACT_MODEL
+invoice151.html,price,10.35,10.35,TP,EXTRACT_MODEL
+invoice151.html,price,27.59,27.59,TP,EXTRACT_MODEL
+invoice151.html,price,452.69,452.69,TP,EXTRACT_MODEL
+invoice151.html,price,145.91,145.91,TP,EXTRACT_MODEL
+invoice151.html,price,395.83,395.83,TP,EXTRACT_MODEL
+invoice151.html,supplier_name,Fadel Group,Fadel Group,TP,EXTRACT_MODEL
+invoice151.html,invoice_number,9765058358,9765058358,TP,EXTRACT_MODEL
+invoice151.html,email,aylin.hahn@hotmail.com,aylin.hahn@hotmail.com,TP,EXTRACT_MODEL
+invoice151.html,invoice_date,05/29/2004,05/29/2004,TP,EXTRACT_RULES
+invoice155.html,product,Practical Wooden Plate,Practical Wooden Plate,TP,EXTRACT_MODEL
+invoice155.html,product,Durable Iron Clock,Durable Iron Clock,TP,EXTRACT_MODEL
+invoice155.html,product,Lightweight Aluminum Keyboard,Lightweight Aluminum Keyboard,TP,EXTRACT_MODEL
+invoice155.html,product,Synergistic Copper Computer,Synergistic Copper Computer,TP,EXTRACT_MODEL
+invoice155.html,product,Synergistic Paper Knife,Synergistic Paper Knife,TP,EXTRACT_MODEL
+invoice155.html,product,Gorgeous Iron Hat,Gorgeous Iron Hat,TP,EXTRACT_MODEL
+invoice155.html,quantity,25.00,25.00,TP,EXTRACT_RULES
+invoice155.html,quantity,10.00,10.00,TP,EXTRACT_RULES
+invoice155.html,quantity,43.00,43.00,TP,EXTRACT_RULES
+invoice155.html,quantity,22.00,22.00,TP,EXTRACT_RULES
+invoice155.html,quantity,20.00,20.00,TP,EXTRACT_RULES
+invoice155.html,quantity,47.00,47.00,TP,EXTRACT_RULES
+invoice155.html,total_amount,64790.45,64790.45,TP,EXTRACT_RULES
+invoice155.html,price,408.62,408.62,TP,EXTRACT_MODEL
+invoice155.html,price,69.23,69.23,TP,EXTRACT_MODEL
+invoice155.html,price,118.62,118.62,TP,EXTRACT_MODEL
+invoice155.html,price,497.12,497.12,TP,EXTRACT_MODEL
+invoice155.html,price,468.52,468.52,TP,EXTRACT_MODEL
+invoice155.html,price,308.03,308.03,TP,EXTRACT_MODEL
+invoice155.html,supplier_name,Roob Group,Roob Group,TP,EXTRACT_MODEL
+invoice155.html,invoice_number,2827263107,2827263107,TP,EXTRACT_MODEL
+invoice155.html,email,donato.schuppe@hotmail.com,donato.schuppe@hotmail.com,TP,EXTRACT_MODEL
+invoice155.html,invoice_date,10/04/1991,10/04/1991,TP,EXTRACT_RULES
+invoice159.html,product,Durable Marble Lamp,Durable Marble Lamp,TP,EXTRACT_MODEL
+invoice159.html,product,Sleek Silk Computer,Sleek Silk Computer,TP,EXTRACT_MODEL
+invoice159.html,product,Ergonomic Leather Bag,Ergonomic Leather Bag,TP,EXTRACT_MODEL
+invoice159.html,product,Ergonomic Wool Chair,Ergonomic Wool Chair,TP,EXTRACT_MODEL
+invoice159.html,product,Synergistic Rubber Knife,Synergistic Rubber Knife,TP,EXTRACT_MODEL
+invoice159.html,product,Mediocre Aluminum Gloves,Mediocre Aluminum Gloves,TP,EXTRACT_MODEL
+invoice159.html,quantity,47.00,47.00,TP,EXTRACT_RULES
+invoice159.html,quantity,34.00,34.00,TP,EXTRACT_RULES
+invoice159.html,quantity,27.00,27.00,TP,EXTRACT_RULES
+invoice159.html,quantity,30.00,30.00,TP,EXTRACT_RULES
+invoice159.html,quantity,11.00,11.00,TP,EXTRACT_RULES
+invoice159.html,quantity,34.00,34.00,TP,EXTRACT_RULES
+invoice159.html,total_amount,50023.69,50023.69,TP,EXTRACT_RULES
+invoice159.html,price,474.48,474.48,TP,EXTRACT_MODEL
+invoice159.html,price,333.24,333.24,TP,EXTRACT_MODEL
+invoice159.html,price,107.44,107.44,TP,EXTRACT_MODEL
+invoice159.html,price,181.23,181.23,TP,EXTRACT_MODEL
+invoice159.html,price,12.05,12.05,TP,EXTRACT_MODEL
+invoice159.html,price,288.22,288.22,TP,EXTRACT_MODEL
+invoice159.html,supplier_name,Bergstrom Inc,Bergstrom Inc,TP,EXTRACT_MODEL
+invoice159.html,invoice_number,9577058119,9577058119,TP,EXTRACT_MODEL
+invoice159.html,email,carmen.vonrueden@yahoo.com,carmen.vonrueden@yahoo.com,TP,EXTRACT_MODEL
+invoice159.html,invoice_date,03/16/1978,03/16/1978,TP,EXTRACT_RULES
+invoice16.html,product,Rustic Wool Gloves,Rustic Wool Gloves,TP,EXTRACT_MODEL
+invoice16.html,product,Incredible Concrete Shoes,Incredible Concrete Shoes,TP,EXTRACT_MODEL
+invoice16.html,product,Mediocre Cotton Lamp,Mediocre Cotton Lamp,TP,EXTRACT_MODEL
+invoice16.html,product,Gorgeous Rubber Chair,Gorgeous Rubber Chair,TP,EXTRACT_MODEL
+invoice16.html,product,Gorgeous Paper Chair,Gorgeous Paper Chair,TP,EXTRACT_MODEL
+invoice16.html,quantity,42.00,42.00,TP,EXTRACT_RULES
+invoice16.html,quantity,53.00,53.00,TP,EXTRACT_RULES
+invoice16.html,quantity,33.00,33.00,TP,EXTRACT_RULES
+invoice16.html,quantity,45.00,45.00,TP,EXTRACT_RULES
+invoice16.html,quantity,7.00,7.00,TP,EXTRACT_RULES
+invoice16.html,total_amount,44597.77,44597.77,TP,EXTRACT_RULES
+invoice16.html,price,19.96,19.96,TP,EXTRACT_MODEL
+invoice16.html,price,57.55,57.55,TP,EXTRACT_MODEL
+invoice16.html,price,411.85,411.85,TP,EXTRACT_MODEL
+invoice16.html,price,451.77,451.77,TP,EXTRACT_MODEL
+invoice16.html,price,243.89,243.89,TP,EXTRACT_MODEL
+invoice16.html,supplier_name,Gleason-Gleason,Gleason-Gleason,TP,EXTRACT_MODEL
+invoice16.html,invoice_number,6594907342,6594907342,TP,EXTRACT_MODEL
+invoice16.html,email,deborah.romaguera@yahoo.com,deborah.romaguera@yahoo.com,TP,EXTRACT_MODEL
+invoice16.html,invoice_date,07/16/1973,07/16/1973,TP,EXTRACT_RULES
+invoice160.html,product,Awesome Bronze Wallet,Awesome Bronze Wallet,TP,EXTRACT_MODEL
+invoice160.html,quantity,28.00,28.00,TP,EXTRACT_RULES
+invoice160.html,total_amount,10345.10,10345.10,TP,EXTRACT_RULES
+invoice160.html,price,307.89,307.89,TP,EXTRACT_MODEL
+invoice160.html,supplier_name,Ferry LLC,Ferry LLC,TP,EXTRACT_MODEL
+invoice160.html,invoice_number,5103866173,5103866173,TP,EXTRACT_MODEL
+invoice160.html,email,presley.rice@hotmail.com,presley.rice@hotmail.com,TP,EXTRACT_MODEL
+invoice160.html,invoice_date,02/16/1997,02/16/1997,TP,EXTRACT_RULES
+invoice173.html,product,Durable Leather Shirt,Durable Leather Shirt,TP,EXTRACT_MODEL
+invoice173.html,product,Practical Iron Table,Practical Iron Table,TP,EXTRACT_MODEL
+invoice173.html,product,Awesome Linen Bag,Awesome Linen Bag,TP,EXTRACT_MODEL
+invoice173.html,product,Gorgeous Rubber Shoes,Gorgeous Rubber Shoes,TP,EXTRACT_MODEL
+invoice173.html,product,Durable Copper Watch,Durable Copper Watch,TP,EXTRACT_MODEL
+invoice173.html,quantity,29.00,29.00,TP,EXTRACT_RULES
+invoice173.html,quantity,52.00,52.00,TP,EXTRACT_RULES
+invoice173.html,quantity,30.00,30.00,TP,EXTRACT_RULES
+invoice173.html,quantity,5.00,5.00,TP,EXTRACT_RULES
+invoice173.html,quantity,12.00,12.00,TP,EXTRACT_RULES
+invoice173.html,total_amount,30996.82,30996.82,TP,EXTRACT_RULES
+invoice173.html,price,50.42,50.42,TP,EXTRACT_MODEL
+invoice173.html,price,129.38,129.38,TP,EXTRACT_MODEL
+invoice173.html,price,331.79,331.79,TP,EXTRACT_MODEL
+invoice173.html,price,145.96,145.96,TP,EXTRACT_MODEL
+invoice173.html,price,246.40,246.40,TP,EXTRACT_MODEL
+invoice173.html,supplier_name,"Hartmann, Hartmann and Hartmann","Hartmann, Hartmann and Hartmann",TP,EXTRACT_MODEL
+invoice173.html,invoice_number,5734501383,5734501383,TP,EXTRACT_MODEL
+invoice173.html,email,stanton.keebler@gmail.com,stanton.keebler@gmail.com,TP,EXTRACT_MODEL
+invoice173.html,invoice_date,01/28/2017,01/28/2017,TP,EXTRACT_RULES
+invoice174.html,product,Gorgeous Copper Lamp,Gorgeous Copper Lamp,TP,EXTRACT_MODEL
+invoice174.html,product,Rustic Steel Lamp,Rustic Steel Lamp,TP,EXTRACT_MODEL
+invoice174.html,product,Intelligent Leather Pants,Intelligent Leather Pants,TP,EXTRACT_MODEL
+invoice174.html,quantity,10.00,10.00,TP,EXTRACT_RULES
+invoice174.html,quantity,23.00,23.00,TP,EXTRACT_RULES
+invoice174.html,quantity,30.00,30.00,TP,EXTRACT_RULES
+invoice174.html,total_amount,17953.06,17953.06,TP,EXTRACT_RULES
+invoice174.html,price,46.46,46.46,TP,EXTRACT_MODEL
+invoice174.html,price,28.64,28.64,TP,EXTRACT_MODEL
+invoice174.html,price,453.53,453.53,TP,EXTRACT_MODEL
+invoice174.html,supplier_name,"Boehm, Boehm and Boehm","Boehm, Boehm and Boehm",TP,EXTRACT_MODEL
+invoice174.html,invoice_number,0238885240,0238885240,TP,EXTRACT_MODEL
+invoice174.html,email,madeline.kovacek@yahoo.com,madeline.kovacek@yahoo.com,TP,EXTRACT_MODEL
+invoice174.html,invoice_date,07/22/1989,07/22/1989,TP,EXTRACT_RULES
+invoice176.html,product,Lightweight Cotton Hat,Lightweight Cotton Hat,TP,EXTRACT_MODEL
+invoice176.html,product,Rustic Leather Watch,Rustic Leather Watch,TP,EXTRACT_MODEL
+invoice176.html,product,Practical Silk Hat,Practical Silk Hat,TP,EXTRACT_MODEL
+invoice176.html,product,Sleek Aluminum Shirt,Sleek Aluminum Shirt,TP,EXTRACT_MODEL
+invoice176.html,product,Incredible Bronze Pants,Incredible Bronze Pants,TP,EXTRACT_MODEL
+invoice176.html,product,Rustic Leather Car,Rustic Leather Car,TP,EXTRACT_MODEL
+invoice176.html,product,Small Wool Clock,Small Wool Clock,TP,EXTRACT_MODEL
+invoice176.html,product,Incredible Copper Watch,Incredible Copper Watch,TP,EXTRACT_MODEL
+invoice176.html,product,Intelligent Steel Hat,Intelligent Steel Hat,TP,EXTRACT_MODEL
+invoice176.html,quantity,12.00,12.00,TP,EXTRACT_RULES
+invoice176.html,quantity,31.00,31.00,TP,EXTRACT_RULES
+invoice176.html,quantity,30.00,30.00,TP,EXTRACT_RULES
+invoice176.html,quantity,27.00,27.00,TP,EXTRACT_RULES
+invoice176.html,quantity,13.00,13.00,TP,EXTRACT_RULES
+invoice176.html,quantity,10.00,10.00,TP,EXTRACT_RULES
+invoice176.html,quantity,15.00,15.00,TP,EXTRACT_RULES
+invoice176.html,quantity,6.00,6.00,TP,EXTRACT_RULES
+invoice176.html,quantity,20.00,20.00,TP,EXTRACT_RULES
+invoice176.html,total_amount,47844.35,47844.35,TP,EXTRACT_RULES
+invoice176.html,price,476.84,476.84,TP,EXTRACT_MODEL
+invoice176.html,price,208.14,208.14,TP,EXTRACT_MODEL
+invoice176.html,price,349.14,349.14,TP,EXTRACT_MODEL
+invoice176.html,price,410.70,410.70,TP,EXTRACT_MODEL
+invoice176.html,price,316.87,316.87,TP,EXTRACT_MODEL
+invoice176.html,price,13.63,13.63,TP,EXTRACT_MODEL
+invoice176.html,price,285.16,285.16,TP,EXTRACT_MODEL
+invoice176.html,price,414.24,414.24,TP,EXTRACT_MODEL
+invoice176.html,price,82.15,82.15,TP,EXTRACT_MODEL
+invoice176.html,supplier_name,Kuvalis Group,Kuvalis Group,TP,EXTRACT_MODEL
+invoice176.html,invoice_number,7188263014,7188263014,TP,EXTRACT_MODEL
+invoice176.html,email,gunner.farrell@hotmail.com,gunner.farrell@hotmail.com,TP,EXTRACT_MODEL
+invoice176.html,invoice_date,11/14/1996,11/14/1996,TP,EXTRACT_RULES
+invoice185.html,product,Rustic Rubber Bag,Rustic Rubber Bag,TP,EXTRACT_MODEL
+invoice185.html,product,Ergonomic Silk Shoes,Ergonomic Silk Shoes,TP,EXTRACT_MODEL
+invoice185.html,product,Gorgeous Granite Car,Gorgeous Granite Car,TP,EXTRACT_MODEL
+invoice185.html,product,Synergistic Aluminum Shirt,Synergistic Aluminum Shirt,TP,EXTRACT_MODEL
+invoice185.html,product,Gorgeous Wool Bottle,Gorgeous Wool Bottle,TP,EXTRACT_MODEL
+invoice185.html,quantity,16.00,16.00,TP,EXTRACT_RULES
+invoice185.html,quantity,46.00,46.00,TP,EXTRACT_RULES
+invoice185.html,quantity,4.00,4.00,TP,EXTRACT_RULES
+invoice185.html,quantity,15.00,15.00,TP,EXTRACT_RULES
+invoice185.html,quantity,7.00,7.00,TP,EXTRACT_RULES
+invoice185.html,total_amount,26928.19,26928.19,TP,EXTRACT_RULES
+invoice185.html,price,191.18,191.18,TP,EXTRACT_MODEL
+invoice185.html,price,191.39,191.39,TP,EXTRACT_MODEL
+invoice185.html,price,304.42,304.42,TP,EXTRACT_MODEL
+invoice185.html,price,448.86,448.86,TP,EXTRACT_MODEL
+invoice185.html,price,251.03,251.03,TP,EXTRACT_MODEL
+invoice185.html,supplier_name,O'Conner LLC,O'Conner LLC,TP,EXTRACT_MODEL
+invoice185.html,invoice_number,2520763010,2520763010,TP,EXTRACT_MODEL
+invoice185.html,email,hillary.ledner@gmail.com,hillary.ledner@gmail.com,TP,EXTRACT_MODEL
+invoice185.html,invoice_date,10/18/1974,10/18/1974,TP,EXTRACT_RULES
+invoice192.html,product,Synergistic Granite Plate,Synergistic Granite Plate,TP,EXTRACT_MODEL
+invoice192.html,product,Lightweight Silk Bench,Lightweight Silk Bench,TP,EXTRACT_MODEL
+invoice192.html,product,Intelligent Paper Shoes,Intelligent Paper Shoes,TP,EXTRACT_MODEL
+invoice192.html,product,Rustic Silk Bottle,Rustic Silk Bottle,TP,EXTRACT_MODEL
+invoice192.html,product,Fantastic Copper Computer,Fantastic Copper Computer,TP,EXTRACT_MODEL
+invoice192.html,product,Mediocre Rubber Lamp,Mediocre Rubber Lamp,TP,EXTRACT_MODEL
+invoice192.html,product,Durable Wool Computer,Durable Wool Computer,TP,EXTRACT_MODEL
+invoice192.html,product,Aerodynamic Marble Watch,Aerodynamic Marble Watch,TP,EXTRACT_MODEL
+invoice192.html,product,Small Wooden Hat,Small Wooden Hat,TP,EXTRACT_MODEL
+invoice192.html,quantity,7.00,7.00,TP,EXTRACT_RULES
+invoice192.html,quantity,47.00,47.00,TP,EXTRACT_RULES
+invoice192.html,quantity,15.00,15.00,TP,EXTRACT_RULES
+invoice192.html,quantity,27.00,27.00,TP,EXTRACT_RULES
+invoice192.html,quantity,16.00,16.00,TP,EXTRACT_RULES
+invoice192.html,quantity,33.00,33.00,TP,EXTRACT_RULES
+invoice192.html,quantity,12.00,12.00,TP,EXTRACT_RULES
+invoice192.html,quantity,9.00,9.00,TP,EXTRACT_RULES
+invoice192.html,quantity,18.00,18.00,TP,EXTRACT_RULES
+invoice192.html,total_amount,59688.67,59688.67,TP,EXTRACT_RULES
+invoice192.html,price,313.31,313.31,TP,EXTRACT_MODEL
+invoice192.html,price,33.20,33.20,TP,EXTRACT_MODEL
+invoice192.html,price,164.13,164.13,TP,EXTRACT_MODEL
+invoice192.html,price,435.76,435.76,TP,EXTRACT_MODEL
+invoice192.html,price,138.49,138.49,TP,EXTRACT_MODEL
+invoice192.html,price,181.86,181.86,TP,EXTRACT_MODEL
+invoice192.html,price,352.64,352.64,TP,EXTRACT_MODEL
+invoice192.html,price,492.90,492.90,TP,EXTRACT_MODEL
+invoice192.html,price,315.29,315.29,TP,EXTRACT_MODEL
+invoice192.html,supplier_name,Daugherty-Daugherty,Daugherty-Daugherty,TP,EXTRACT_MODEL
+invoice192.html,invoice_number,4985860019,4985860019,TP,EXTRACT_MODEL
+invoice192.html,email,janelle.emard@gmail.com,janelle.emard@gmail.com,TP,EXTRACT_MODEL
+invoice192.html,invoice_date,04/16/2004,04/16/2004,TP,EXTRACT_RULES
+invoice20.html,product,Practical Plastic Hat,Practical Plastic Hat,TP,EXTRACT_MODEL
+invoice20.html,product,Rustic Bronze Knife,Rustic Bronze Knife,TP,EXTRACT_MODEL
+invoice20.html,quantity,52.00,52.00,TP,EXTRACT_RULES
+invoice20.html,quantity,49.00,49.00,TP,EXTRACT_RULES
+invoice20.html,total_amount,40203.16,40203.16,TP,EXTRACT_RULES
+invoice20.html,price,294.77,294.77,TP,EXTRACT_MODEL
+invoice20.html,price,370.91,370.91,TP,EXTRACT_MODEL
+invoice20.html,supplier_name,Dibbert-Dibbert,Dibbert-Dibbert,TP,EXTRACT_MODEL
+invoice20.html,invoice_number,0055279390,0055279390,TP,EXTRACT_MODEL
+invoice20.html,email,cali.abshire@gmail.com,cali.abshire@gmail.com,TP,EXTRACT_MODEL
+invoice20.html,invoice_date,09/29/1990,09/29/1990,TP,EXTRACT_RULES
+invoice201.html,product,Lightweight Linen Watch,Lightweight Linen Watch,TP,EXTRACT_MODEL
+invoice201.html,product,Aerodynamic Marble Bag,Aerodynamic Marble Bag,TP,EXTRACT_MODEL
+invoice201.html,product,Fantastic Concrete Watch,Fantastic Concrete Watch,TP,EXTRACT_MODEL
+invoice201.html,product,Small Rubber Shirt,Small Rubber Shirt,TP,EXTRACT_MODEL
+invoice201.html,product,Ergonomic Aluminum Bench,Ergonomic Aluminum Bench,TP,EXTRACT_MODEL
+invoice201.html,quantity,13.00,13.00,TP,EXTRACT_RULES
+invoice201.html,quantity,18.00,18.00,TP,EXTRACT_RULES
+invoice201.html,quantity,37.00,37.00,TP,EXTRACT_RULES
+invoice201.html,quantity,4.00,4.00,TP,EXTRACT_RULES
+invoice201.html,quantity,16.00,16.00,TP,EXTRACT_RULES
+invoice201.html,total_amount,21742.62,21742.62,TP,EXTRACT_RULES
+invoice201.html,price,287.38,287.38,TP,EXTRACT_MODEL
+invoice201.html,price,269.61,269.61,TP,EXTRACT_MODEL
+invoice201.html,price,49.31,49.31,TP,EXTRACT_MODEL
+invoice201.html,price,179.65,179.65,TP,EXTRACT_MODEL
+invoice201.html,price,199.02,199.02,TP,EXTRACT_MODEL
+invoice201.html,supplier_name,Huels Group,Huels Group,TP,EXTRACT_MODEL
+invoice201.html,invoice_number,1549306900,1549306900,TP,EXTRACT_MODEL
+invoice201.html,email,immanuel.gerhold@hotmail.com,immanuel.gerhold@hotmail.com,TP,EXTRACT_MODEL
+invoice201.html,invoice_date,02/27/2001,02/27/2001,TP,EXTRACT_RULES

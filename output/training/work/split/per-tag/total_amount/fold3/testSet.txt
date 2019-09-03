@@ -1,0 +1,17 @@
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00124220180117122255.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00145820180117152240.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice113.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice126.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice14.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice155.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice174.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice201.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.34745b56-eb5a-4729-b49c-5abfa9631675.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.3c682f27-6069-4197-b695-ae3b582034f6.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.6a1f5f62-4619-46d3-823f-4fd38a1cd524.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.86fbcb18-3662-4bd8-b825-be98789489d6.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.911dfa46-805b-4bde-8299-813a71fc4077.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.c1e44c88-6b2d-420c-9728-f73955467774.html

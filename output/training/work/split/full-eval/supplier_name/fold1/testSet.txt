@@ -1,0 +1,17 @@
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00123720180117122026.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00131320180117125408.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice0.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice118.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice129.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice144.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice16.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice185.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.0426e5bf-5697-4aa1-b119-814d354a8089.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.46192655-d5d6-49d6-8bef-c29d689b5744.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.7f5cd49b-808e-4d14-a012-d49718d012fb.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.8e4de907-f5f9-47e8-83b1-9b9119aa5fd1.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html

@@ -1,0 +1,17 @@
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00123720180117122026.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\doc00131320180117125408.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice108.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice124.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice138.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice151.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice173.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\invoice20.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.0e0db08f-da64-44fe-821c-e1f5566f54c5.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.37c42c0f-a058-460c-a78d-98f7662df650.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.711a9524-10a1-4882-88a6-f5716011df67.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.86fbcb18-3662-4bd8-b825-be98789489d6.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.8e4de907-f5f9-47e8-83b1-9b9119aa5fd1.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html
+C:\Users\wiskow.sj\workfusion-workspace\assignment\output\training\input\training-set\train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html
